@@ -1,0 +1,449 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Battery-Sim-Agent | LLM-Agent for Inverse Battery Parameter Estimation</title>
+    <meta name="description" content="Battery-Sim-Agent: Leveraging LLM-Agent for Inverse Battery Parameter Estimation. KDD 2026.">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Google+Sans:wght@400;500;700&family=Google+Sans+Text:wght@400;500;700&family=Roboto+Mono:wght@400;500&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <link rel="stylesheet" href="static/style.css">
+</head>
+<body>
+
+<!-- Navigation -->
+<nav class="navbar" id="navbar">
+    <div class="nav-container">
+        <a href="#" class="nav-logo">Battery-Sim-Agent</a>
+        <div class="nav-links">
+            <a href="#abstract">Abstract</a>
+            <a href="#method">Method</a>
+            <a href="#results">Results</a>
+            <a href="#citation">Citation</a>
+        </div>
+    </div>
+</nav>
+
+<!-- Hero Section -->
+<header class="hero">
+    <div class="hero-bg"></div>
+    <!-- DeepMind-style animated gradient orbs -->
+    <div class="hero-orb hero-orb-1"></div>
+    <div class="hero-orb hero-orb-2"></div>
+    <div class="hero-orb hero-orb-3"></div>
+    <div class="hero-grid"></div>
+
+    <div class="container hero-content">
+        <!-- <div class="venue-badge">
+            <i class="fas fa-award"></i> KDD 2026 &mdash; Jeju, Korea
+        </div> -->
+        <h1 class="hero-title">
+            <span class="title-accent">Battery-Sim-Agent</span>
+            <span class="title-sub">Leveraging LLM-Agent for Inverse Battery Parameter Estimation</span>
+        </h1>
+
+        <div class="authors">
+            <div class="author-list">
+                <span class="author"><a href="#">Jiawei Chen</a><sup>1</sup></span>
+                <span class="author"><a href="#">Xiaofan Gui</a><sup>2</sup></span>
+                <span class="author"><a href="#">Shikai Fang</a><sup>3</sup></span>
+                <span class="author"><a href="#">Shengyu Tao</a><sup>4</sup></span>
+                <span class="author"><a href="#">Shun Zheng</a><sup>2</sup></span>
+                <span class="author"><a href="#">Weiqing Liu</a><sup>2</sup></span>
+                <span class="author"><a href="#">Jiang Bian</a><sup>2</sup></span>
+            </div>
+            <div class="affiliations">
+                <span><sup>1</sup>Peking University</span>
+                <span><sup>2</sup>Microsoft Research</span>
+                <span><sup>3</sup>Zhejiang University</span>
+                <span><sup>4</sup>Chalmers University of Technology</span>
+            </div>
+        </div>
+
+        <div class="hero-buttons">
+            <a href="#" class="btn btn-primary"><i class="fas fa-file-pdf"></i> Paper</a>
+            <a href="#" class="btn btn-secondary"><i class="fab fa-github"></i> Code</a>
+            <a href="#citation" class="btn btn-outline"><i class="fas fa-quote-right"></i> Cite</a>
+        </div>
+    </div>
+</header>
+
+<!-- Highlights -->
+<section class="highlights">
+    <div class="container">
+        <div class="highlight-grid">
+            <div class="highlight-card fade-up">
+                <div class="highlight-icon"><i class="fas fa-brain"></i></div>
+                <div class="highlight-number">67–95%</div>
+                <div class="highlight-text">Error reduction vs. Bayesian Optimization across diverse battery chemistries</div>
+            </div>
+            <div class="highlight-card fade-up">
+                <div class="highlight-icon"><i class="fas fa-flask"></i></div>
+                <div class="highlight-number">5</div>
+                <div class="highlight-text">Battery chemistries tested: NMC811, LFP, NMC111, LCO, and more</div>
+            </div>
+            <div class="highlight-card fade-up">
+                <div class="highlight-icon"><i class="fas fa-tasks"></i></div>
+                <div class="highlight-number">200+</div>
+                <div class="highlight-text">Benchmark tasks spanning diverse operating conditions and difficulty levels</div>
+            </div>
+            <div class="highlight-card fade-up">
+                <div class="highlight-icon"><i class="fas fa-check-circle"></i></div>
+                <div class="highlight-number">Real-World</div>
+                <div class="highlight-text">Validated on CALCE real battery datasets with noisy experimental data</div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Abstract -->
+<section class="section" id="abstract">
+    <div class="container">
+        <h2 class="section-title fade-up">Abstract</h2>
+        <div class="abstract-box fade-up">
+            <p>
+                Parameterizing high-fidelity "digital twins" of batteries is a critical yet challenging inverse problem that hinders the pace of battery innovation. Prevailing methods formulate this as a black-box optimization (BBO) task, employing algorithms that are sample-inefficient and blind to the underlying physics. In this work, we introduce a new paradigm that reframes the inverse problem as a <strong>reasoning task</strong>, and present <strong>Battery-Sim-Agent</strong>, the first framework to deploy a Large Language Model (LLM) agent in a closed loop with a high-fidelity battery simulator.
+            </p>
+            <p>
+                The agent mimics a human scientist's workflow: it interprets rich, multi-modal feedback from the simulator, forms physically-grounded hypotheses to explain discrepancies, and proposes structured parameter updates. On a systematically constructed benchmark suite spanning diverse battery chemistries, operating conditions, and difficulty levels, our agent <strong>significantly outperforms strong BBO baselines</strong> like Bayesian optimization in identifying accurate parameters. We further demonstrate the framework's capability in complex long-horizon degradation fitting tasks and validate its practical applicability on real-world battery datasets.
+            </p>
+        </div>
+
+        <div class="keywords fade-up">
+            <span class="keyword">Large Language Models</span>
+            <span class="keyword">AI Agents</span>
+            <span class="keyword">Battery Parameter Estimation</span>
+            <span class="keyword">AI for Science</span>
+            <span class="keyword">Inverse Problems</span>
+            <span class="keyword">Digital Twins</span>
+        </div>
+    </div>
+</section>
+
+<!-- Motivation -->
+<section class="section section-alt" id="motivation">
+    <div class="container">
+        <h2 class="section-title fade-up">Why Battery-Sim-Agent?</h2>
+        <div class="comparison-wrapper fade-up">
+            <div class="comparison-table">
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Aspect</th>
+                            <th>Traditional BBO</th>
+                            <th class="ours">Battery-Sim-Agent (Ours)</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td><strong>Search Paradigm</strong></td>
+                            <td>Blind Search</td>
+                            <td class="ours">Hypothesis-Driven</td>
+                        </tr>
+                        <tr>
+                            <td><strong>Feedback Signal</strong></td>
+                            <td>Scalar Loss</td>
+                            <td class="ours">Rich & Multi-modal</td>
+                        </tr>
+                        <tr>
+                            <td><strong>Interpretability</strong></td>
+                            <td>Low</td>
+                            <td class="ours">High</td>
+                        </tr>
+                        <tr>
+                            <td><strong>Efficiency</strong></td>
+                            <td>Sample-Inefficient</td>
+                            <td class="ours">Guided & Efficient</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+            <div class="motivation-text">
+                <p>
+                    Building accurate battery digital twins requires solving a fundamental <em>inverse problem</em>: inferring hidden microscopic parameters from observable macroscopic data. Traditional black-box optimization methods treat the simulator as an opaque oracle &mdash; they are blind to the underlying physics.
+                </p>
+                <p>
+                    <strong>Battery-Sim-Agent</strong> reframes this as a <em>reasoning task</em>. Like a human scientist, the agent interprets simulation feedback, forms physical hypotheses, and proposes targeted corrections &mdash; turning brute-force search into intelligent scientific discovery.
+                </p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Method -->
+<section class="section" id="method">
+    <div class="container">
+        <h2 class="section-title fade-up">Method</h2>
+        <div class="method-overview fade-up">
+            <div class="method-figure">
+                <img src="static/images/Method-7.png" alt="Battery-Sim-Agent Workflow" loading="lazy">
+                <p class="figure-caption">
+                    <strong>Figure 1.</strong> The closed-loop workflow of Battery-Sim-Agent. The agent proposes parameters for the PyBaMM simulator. The simulator's output is then compared against target data to generate structured, multi-modal feedback, which the agent analyzes using its dynamic memory to reason about the next parameter update.
+                </p>
+            </div>
+        </div>
+
+        <div class="method-steps">
+            <div class="step-card fade-up">
+                <div class="step-number">1</div>
+                <div class="step-content">
+                    <h3>Analyze Feedback</h3>
+                    <p>
+                        The agent receives a <strong>multi-modal feedback package</strong> in structured JSON format, containing fine-grained feature-space residuals, quantitative error metrics, and visual voltage curve overlays &mdash; bridging the gap between raw simulation data and actionable reasoning.
+                    </p>
+                    <div class="code-block">
+<pre><code>{
+  "residuals": { "capacity_mape": 0.08, "voltage_rmse": 0.05 },
+  "features": {
+    "cc_charge_time_mismatch_s": -120.5,
+    "plateau_shift_v": -0.02
+  },
+  "visual": "path/to/voltage_curve_overlay.png"
+}</code></pre>
+                    </div>
+                </div>
+            </div>
+
+            <div class="step-card fade-up">
+                <div class="step-number">2</div>
+                <div class="step-content">
+                    <h3>Reason & Hypothesize</h3>
+                    <p>
+                        Guided by its <strong>dynamic memory</strong>, the agent forms a causal hypothesis grounded in physics. This explicit reasoning step acts as a "cognitive check," reducing hallucinations and ensuring parameter updates are physically plausible.
+                    </p>
+                    <div class="hypothesis-box">
+                        <em>"The short CC charge time and low voltage plateau suggest an electrolyte transport limitation. Increasing the positive electrode reaction rate should raise the voltage plateau and extend the CC charge duration."</em>
+                    </div>
+                </div>
+            </div>
+
+            <div class="step-card fade-up">
+                <div class="step-number">3</div>
+                <div class="step-content">
+                    <h3>Propose Structured Update</h3>
+                    <p>
+                        The agent translates its hypothesis into a <strong>machine-actionable JSON update</strong> with a rationale, enabling targeted local adjustments rather than blind global exploration.
+                    </p>
+                    <div class="code-block">
+<pre><code>{
+  "updated_params": {
+    "Positive electrode reaction rate [s^-1]": "*1.2"
+  },
+  "rationale": "Increasing the positive reaction rate
+                by 20% to raise voltage plateau."
+}</code></pre>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="memory-section fade-up">
+            <h3><i class="fas fa-memory"></i> Dynamic Memory with Knowledge Warm-up</h3>
+            <div class="memory-grid">
+                <div class="memory-card">
+                    <h4>Initial Knowledge Injection</h4>
+                    <p>Memory is initialized with human expert knowledge: physical parameter bounds and qualitative rules-of-thumb from domain literature.</p>
+                </div>
+                <div class="memory-card">
+                    <h4>Trial-and-Error Warm-up</h4>
+                    <p>Before optimization, the agent builds an "internal mental model" of parameter sensitivity through random perturbation experiments, learning rules like <em>"perturbing electrode thickness by +10% strongly increases capacity."</em></p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Results -->
+<section class="section section-alt" id="results">
+    <div class="container">
+        <h2 class="section-title fade-up">Results</h2>
+
+        <div class="results-intro fade-up">
+            <p>
+                We evaluate Battery-Sim-Agent on a comprehensive benchmark suite of <strong>200+ tasks</strong> spanning 5 battery chemistries, 3 C-rates, and 2 difficulty modes, plus long-horizon degradation fitting and real-world battery data.
+            </p>
+        </div>
+
+        <!-- Main Results Figures -->
+        <div class="results-figures fade-up">
+            <div class="result-fig-pair">
+                <div class="result-fig">
+                    <img src="static/images/scatter-box_single.png" alt="Regular Mode Results" loading="lazy">
+                    <p class="figure-caption"><strong>(a) Regular Mode.</strong> Multi-parameter perturbations.</p>
+                </div>
+                <div class="result-fig">
+                    <img src="static/images/scatter-box_multi.png" alt="Extreme Mode Results" loading="lazy">
+                    <p class="figure-caption"><strong>(b) Extreme Mode.</strong> Single large-parameter perturbations.</p>
+                </div>
+            </div>
+            <p class="figure-caption-main">
+                <strong>Figure 2.</strong> Main results on first-cycle calibration. Our reasoning-based agent (GPT-O3) consistently outperforms its ablation (GPT-OSS) and Bayesian Optimization across both difficulty modes, achieving lower median error and significantly reduced variance.
+            </p>
+        </div>
+
+        <!-- Results Table -->
+        <div class="results-table-wrapper fade-up">
+            <h3>Detailed Performance (MAPE &darr;)</h3>
+            <div class="table-scroll">
+                <table class="results-table">
+                    <thead>
+                        <tr>
+                            <th>Mode</th>
+                            <th>Method</th>
+                            <th>Chen2020</th>
+                            <th>ORegan2022</th>
+                            <th>Ecker2015</th>
+                            <th>Prada2013</th>
+                            <th>Marquis2019</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr class="group-start">
+                            <td rowspan="4" class="mode-cell">Regular</td>
+                            <td class="method-default">Default</td>
+                            <td>159.09</td><td>160.47</td><td>108.42</td><td>79.16</td><td>122.60</td>
+                        </tr>
+                        <tr>
+                            <td class="method-bo">BO</td>
+                            <td>211.97</td><td>81.73</td><td>27.37</td><td>56.31</td><td>13.54</td>
+                        </tr>
+                        <tr>
+                            <td class="method-oss">Agent-OSS</td>
+                            <td>38.05</td><td>46.34</td><td>7.63</td><td>23.74</td><td>9.55</td>
+                        </tr>
+                        <tr class="best-row">
+                            <td class="method-ours">Agent-O3 (Ours)</td>
+                            <td><strong>12.60</strong></td><td><strong>34.18</strong></td><td><strong>0.77</strong></td><td><strong>5.97</strong></td><td><strong>1.27</strong></td>
+                        </tr>
+                        <tr class="group-start">
+                            <td rowspan="4" class="mode-cell">Extreme</td>
+                            <td class="method-default">Default</td>
+                            <td>119.32</td><td>181.95</td><td>100.43</td><td>150.65</td><td>108.00</td>
+                        </tr>
+                        <tr>
+                            <td class="method-bo">BO</td>
+                            <td>159.41</td><td>84.55</td><td>137.31</td><td>17.05</td><td>8.42</td>
+                        </tr>
+                        <tr>
+                            <td class="method-oss">Agent-OSS</td>
+                            <td>23.66</td><td>50.88</td><td>45.47</td><td>23.96</td><td>19.50</td>
+                        </tr>
+                        <tr class="best-row">
+                            <td class="method-ours">Agent-O3 (Ours)</td>
+                            <td><strong>23.38</strong></td><td><strong>19.44</strong></td><td><strong>27.85</strong></td><td>59.14</td><td>48.34</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+
+        <!-- C-Rate Analysis -->
+        <div class="crate-section fade-up">
+            <h3>Performance Across C-rates</h3>
+            <div class="crate-figures">
+                <div class="crate-fig">
+                    <img src="static/images/BO_charge_c_rate_total_mape_boxplot.png" alt="BO C-rate performance" loading="lazy">
+                    <p class="figure-caption">(a) Bayesian Optimization</p>
+                </div>
+                <div class="crate-fig">
+                    <img src="static/images/GPT-OSS_charge_c_rate_total_mape_boxplot.png" alt="OSS C-rate performance" loading="lazy">
+                    <p class="figure-caption">(b) Battery-Sim-Agent-OSS</p>
+                </div>
+                <div class="crate-fig">
+                    <img src="static/images/GPT-O3_charge_c_rate_total_mape_boxplot.png" alt="O3 C-rate performance" loading="lazy">
+                    <p class="figure-caption">(c) Battery-Sim-Agent-O3</p>
+                </div>
+            </div>
+            <p class="figure-caption-main">
+                <strong>Figure 3.</strong> Our agent maintains superior performance across all C-rates (0.2C, 1C, 2C), with particularly notable improvements at higher rates where traditional optimization methods struggle.
+            </p>
+        </div>
+
+        <!-- Convergence -->
+        <div class="convergence-section fade-up">
+            <h3>Advanced Applications & Convergence</h3>
+            <div class="convergence-figures">
+                <div class="conv-fig">
+                    <img src="static/images/degration_exp_3_metrics.png" alt="Degradation Fitting Convergence" loading="lazy">
+                    <p class="figure-caption">(a) Long-Horizon Degradation Fitting</p>
+                </div>
+                <div class="conv-fig">
+                    <img src="static/images/app_loss_curve_2.png" alt="Real-World Data Convergence" loading="lazy">
+                    <p class="figure-caption">(b) Real-World Battery Data (CALCE)</p>
+                </div>
+            </div>
+            <p class="figure-caption-main">
+                <strong>Figure 4.</strong> Convergence analysis showing systematic error reduction over iterations for degradation fitting (left) and real-world battery data (right). Traditional methods like BO fail to converge in these complex scenarios.
+            </p>
+        </div>
+    </div>
+</section>
+
+<!-- Footer -->
+<footer class="footer">
+    <div class="container">
+        <p>Battery-Sim-Agent &copy; 2026.</p>
+        <p class="footer-links">
+            <a href="#"><i class="fas fa-file-pdf"></i> Paper</a>
+            <a href="#"><i class="fab fa-github"></i> Code</a>
+            <a href="#">Contact</a>
+        </p>
+    </div>
+</footer>
+
+<script>
+// Navbar scroll effect
+const navbar = document.getElementById('navbar');
+window.addEventListener('scroll', () => {
+    if (window.scrollY > 50) {
+        navbar.classList.add('scrolled');
+    } else {
+        navbar.classList.remove('scrolled');
+    }
+});
+
+// Copy BibTeX
+function copyBibtex() {
+    const bibtex = document.getElementById('bibtex').textContent;
+    navigator.clipboard.writeText(bibtex).then(() => {
+        const btn = document.querySelector('.copy-btn');
+        btn.innerHTML = '<i class="fas fa-check"></i> Copied!';
+        setTimeout(() => {
+            btn.innerHTML = '<i class="fas fa-copy"></i> Copy';
+        }, 2000);
+    });
+}
+
+// Smooth scroll for nav links
+document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+    anchor.addEventListener('click', function (e) {
+        e.preventDefault();
+        const target = document.querySelector(this.getAttribute('href'));
+        if (target) {
+            target.scrollIntoView({ behavior: 'smooth', block: 'start' });
+        }
+    });
+});
+
+// Scroll-triggered fade-up animations (IntersectionObserver)
+const fadeEls = document.querySelectorAll('.fade-up');
+const observer = new IntersectionObserver((entries) => {
+    entries.forEach((entry, i) => {
+        if (entry.isIntersecting) {
+            // Stagger siblings slightly
+            const siblings = entry.target.parentElement.querySelectorAll('.fade-up');
+            const index = Array.from(siblings).indexOf(entry.target);
+            entry.target.style.transitionDelay = `${index * 80}ms`;
+            entry.target.classList.add('visible');
+            observer.unobserve(entry.target);
+        }
+    });
+}, { threshold: 0.15, rootMargin: '0px 0px -40px 0px' });
+
+fadeEls.forEach(el => observer.observe(el));
+</script>
+
+</body>
+</html>
