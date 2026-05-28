@@ -1,0 +1,20 @@
+EXPERIMENT_TYPE: sim_vs_sim
+EXP_CYCLES: 2
+RANDOM_SEED: 1234
+REAL_VS_SIM:
+  real_world_cell_dataset: MATR
+  real_world_data_path: ../data/2017-05-12_6C-50per_3_6C_CH36.csv
+RESULTS_DIR: ./results/{time_stamp}
+SIM_VS_SIM:
+  baseline_sim_config: ../../generate_simulated_data/output/simulated_data_setting_multi_new_filtered.yaml
+  baseline_sim_id: 6
+  parameter_change:
+    Negative electrode Bruggeman coefficient (electrolyte): 1.7
+    Negative electrode porosity: 0.23
+    Negative electrode thickness [m]: 0.00010224
+    Negative particle radius [m]: 5.86e-06
+    Positive electrode Bruggeman coefficient (electrolyte): 1.7
+    Positive electrode porosity: 0.30500000000000005
+    Positive electrode thickness [m]: 9.449999999999999e-05
+    Positive particle radius [m]: 5.22e-06
+    Separator thickness [m]: 1.02e-05

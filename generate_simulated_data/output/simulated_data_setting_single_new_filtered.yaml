@@ -1,0 +1,700 @@
+1:
+  charge_c_rate: 0.2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Negative particle radius [m]: 1.172e-05
+2:
+  charge_c_rate: 0.2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Negative electrode thickness [m]: 6.39e-05
+6:
+  charge_c_rate: 0.2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Negative particle radius [m]: 1.172e-05
+8:
+  charge_c_rate: 0.2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Negative electrode thickness [m]: 0.0001278
+11:
+  charge_c_rate: 0.2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Negative particle radius [m]: 1.172e-05
+13:
+  charge_c_rate: 0.2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Positive particle radius [m]: 1.044e-05
+15:
+  charge_c_rate: 0.2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Negative electrode thickness [m]: 0.0001278
+24:
+  charge_c_rate: 1
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Negative particle radius [m]: 1.172e-05
+25:
+  charge_c_rate: 1
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Negative electrode thickness [m]: 6.39e-05
+29:
+  charge_c_rate: 1
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Negative particle radius [m]: 1.172e-05
+30:
+  charge_c_rate: 1
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Negative electrode thickness [m]: 6.39e-05
+34:
+  charge_c_rate: 1
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Negative particle radius [m]: 1.172e-05
+36:
+  charge_c_rate: 1
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Positive particle radius [m]: 1.044e-05
+38:
+  charge_c_rate: 1
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Negative electrode thickness [m]: 0.0001278
+47:
+  charge_c_rate: 2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Negative particle radius [m]: 1.172e-05
+49:
+  charge_c_rate: 2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Negative electrode thickness [m]: 0.0001278
+52:
+  charge_c_rate: 2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Negative particle radius [m]: 1.172e-05
+54:
+  charge_c_rate: 2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Negative electrode thickness [m]: 0.0001278
+57:
+  charge_c_rate: 2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Negative particle radius [m]: 1.172e-05
+59:
+  charge_c_rate: 2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Positive particle radius [m]: 1.044e-05
+70:
+  charge_c_rate: 0.2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Negative particle radius [m]: 2.93e-06
+73:
+  charge_c_rate: 0.2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Negative electrode thickness [m]: 0.0001278
+76:
+  charge_c_rate: 0.2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Negative particle radius [m]: 1.172e-05
+79:
+  charge_c_rate: 0.2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Negative electrode thickness [m]: 0.0001278
+82:
+  charge_c_rate: 0.2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Negative electrode Bruggeman coefficient (electrolyte): 2.5
+84:
+  charge_c_rate: 0.2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Negative particle radius [m]: 1.172e-05
+87:
+  charge_c_rate: 0.2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Negative electrode thickness [m]: 0.0001278
+89:
+  charge_c_rate: 0.2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Positive electrode thickness [m]: 0.00011339999999999999
+93:
+  charge_c_rate: 1
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Negative particle radius [m]: 2.93e-06
+94:
+  charge_c_rate: 1
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Positive particle radius [m]: 1.044e-05
+97:
+  charge_c_rate: 1
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Negative particle radius [m]: 1.172e-05
+98:
+  charge_c_rate: 1
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Negative electrode Bruggeman coefficient (electrolyte): 2.5
+101:
+  charge_c_rate: 1
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Negative particle radius [m]: 1.172e-05
+102:
+  charge_c_rate: 1
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Positive particle radius [m]: 1.044e-05
+108:
+  charge_c_rate: 2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Negative particle radius [m]: 2.93e-06
+109:
+  charge_c_rate: 2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Positive particle radius [m]: 1.044e-05
+112:
+  charge_c_rate: 2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Negative particle radius [m]: 1.172e-05
+113:
+  charge_c_rate: 2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Positive particle radius [m]: 1.044e-05
+115:
+  charge_c_rate: 2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Negative particle radius [m]: 1.172e-05
+116:
+  charge_c_rate: 2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Positive particle radius [m]: 1.044e-05
+121:
+  charge_c_rate: 0.2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Negative particle radius [m]: 2.5e-06
+122:
+  charge_c_rate: 0.2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Negative particle radius [m]: 1.0e-05
+124:
+  charge_c_rate: 0.2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Negative electrode thickness [m]: 5.1e-05
+125:
+  charge_c_rate: 0.2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Negative particle radius [m]: 2.5e-06
+126:
+  charge_c_rate: 0.2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Negative particle radius [m]: 1.0e-05
+128:
+  charge_c_rate: 0.2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Negative electrode thickness [m]: 5.1e-05
+130:
+  charge_c_rate: 0.2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Negative particle radius [m]: 1.0e-05
+132:
+  charge_c_rate: 0.2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Negative electrode thickness [m]: 5.1e-05
+134:
+  charge_c_rate: 1
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Negative particle radius [m]: 1.0e-05
+136:
+  charge_c_rate: 1
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Negative electrode thickness [m]: 5.1e-05
+138:
+  charge_c_rate: 1
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Negative particle radius [m]: 1.0e-05
+140:
+  charge_c_rate: 1
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Negative electrode thickness [m]: 5.1e-05
+142:
+  charge_c_rate: 1
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Negative particle radius [m]: 1.0e-05
+144:
+  charge_c_rate: 1
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Negative electrode thickness [m]: 5.1e-05
+146:
+  charge_c_rate: 2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Negative particle radius [m]: 1.0e-05
+148:
+  charge_c_rate: 2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Negative electrode thickness [m]: 5.1e-05
+150:
+  charge_c_rate: 2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Negative particle radius [m]: 1.0e-05
+152:
+  charge_c_rate: 2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Negative electrode thickness [m]: 5.1e-05
+154:
+  charge_c_rate: 2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Negative particle radius [m]: 1.0e-05
+156:
+  charge_c_rate: 2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Negative electrode thickness [m]: 5.1e-05
+158:
+  charge_c_rate: 0.2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Negative electrode thickness [m]: 0.00011099999999999999
+159:
+  charge_c_rate: 0.2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Positive electrode thickness [m]: 4.0499999999999995e-05
+160:
+  charge_c_rate: 0.2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Negative particle radius [m]: 2.74e-05
+162:
+  charge_c_rate: 0.2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Negative electrode thickness [m]: 0.00011099999999999999
+163:
+  charge_c_rate: 0.2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Positive electrode thickness [m]: 4.0499999999999995e-05
+164:
+  charge_c_rate: 0.2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Negative particle radius [m]: 2.74e-05
+166:
+  charge_c_rate: 0.2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Negative electrode thickness [m]: 0.00011099999999999999
+167:
+  charge_c_rate: 0.2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Positive electrode thickness [m]: 4.0499999999999995e-05
+168:
+  charge_c_rate: 1
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Negative electrode thickness [m]: 5.5499999999999994e-05
+169:
+  charge_c_rate: 1
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Positive electrode thickness [m]: 4.0499999999999995e-05
+170:
+  charge_c_rate: 1
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Negative particle radius [m]: 2.74e-05
+172:
+  charge_c_rate: 1
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Negative electrode thickness [m]: 0.00011099999999999999
+174:
+  charge_c_rate: 1
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Negative particle radius [m]: 2.74e-05
+176:
+  charge_c_rate: 1
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Negative electrode thickness [m]: 0.00011099999999999999
+179:
+  charge_c_rate: 2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Negative electrode thickness [m]: 0.00011099999999999999
+180:
+  charge_c_rate: 2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Positive electrode thickness [m]: 4.0499999999999995e-05
+181:
+  charge_c_rate: 2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Negative particle radius [m]: 2.74e-05
+183:
+  charge_c_rate: 2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Negative electrode thickness [m]: 0.00011099999999999999
+185:
+  charge_c_rate: 2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Negative particle radius [m]: 2.74e-05
+187:
+  charge_c_rate: 2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Negative electrode thickness [m]: 0.00011099999999999999
+189:
+  charge_c_rate: 0.2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Positive particle radius [m]: 2.0e-05
+192:
+  charge_c_rate: 0.2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Positive electrode thickness [m]: 0.00015000000000000001
+194:
+  charge_c_rate: 0.2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Positive particle radius [m]: 2.0e-05
+197:
+  charge_c_rate: 0.2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Positive electrode thickness [m]: 0.00015000000000000001
+198:
+  charge_c_rate: 0.2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Negative particle radius [m]: 2.0e-05
+200:
+  charge_c_rate: 0.2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Positive particle radius [m]: 2.0e-05
+203:
+  charge_c_rate: 0.2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Positive electrode thickness [m]: 0.00015000000000000001
+204:
+  charge_c_rate: 1
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Positive particle radius [m]: 2.0e-05
+207:
+  charge_c_rate: 1
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Positive electrode thickness [m]: 0.00015000000000000001
+209:
+  charge_c_rate: 1
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Positive particle radius [m]: 2.0e-05
+212:
+  charge_c_rate: 1
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Positive electrode thickness [m]: 0.00015000000000000001
+213:
+  charge_c_rate: 1
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Negative particle radius [m]: 2.0e-05
+215:
+  charge_c_rate: 1
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Positive particle radius [m]: 2.0e-05
+218:
+  charge_c_rate: 1
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Positive electrode thickness [m]: 0.00015000000000000001
+219:
+  charge_c_rate: 2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Positive particle radius [m]: 2.0e-05
+222:
+  charge_c_rate: 2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Positive electrode thickness [m]: 0.00015000000000000001
+224:
+  charge_c_rate: 2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Positive particle radius [m]: 2.0e-05
+227:
+  charge_c_rate: 2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Positive electrode thickness [m]: 0.00015000000000000001
+230:
+  charge_c_rate: 2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Positive particle radius [m]: 2.0e-05
+233:
+  charge_c_rate: 2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Positive electrode thickness [m]: 0.00015000000000000001

@@ -1,0 +1,14 @@
+SINGLE_CYCLE:
+  - Rest for 1 second
+  - Charge at {charge_c_rate}C until {v_max} V
+  - Rest for 1 second
+  - Hold at {v_max} V until C/20
+  - Rest for 90 second
+  - Discharge at {discharge_c_rate}C until {v_min} V
+  - Rest for 90 second
+
+DEFAULT_PARAMS_SET: "Ai2020"
+MODEL_NAME: "SPMe" # ["DFN", "SPMe"]
+MODEL_OPTIONS:
+  "SEI": "reaction limited"
+  "SEI film resistance": "distributed"

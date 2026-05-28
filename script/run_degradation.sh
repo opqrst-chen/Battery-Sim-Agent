@@ -1,0 +1,1 @@
+python battery_agent/pipeline.py --pipeline_name degradation_pipeline

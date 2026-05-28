@@ -1,0 +1,17 @@
+# Copy this file to `llm.yaml` and fill in your endpoint / key.
+# `llm.yaml` is git-ignored so your credentials stay local.
+
+# Examples:
+#   - Local Ollama:        BASE_URL: "http://localhost:11434/v1"  /  API_KEY: "ollama"
+#   - Local vLLM server:   BASE_URL: "http://localhost:8000/v1"   /  API_KEY: "dummy"
+#   - OpenAI:              BASE_URL: "https://api.openai.com/v1"  /  API_KEY: "<your key>"
+
+BASE_URL: "http://localhost:8000/v1"
+API_KEY: "dummy"
+LLM_MODEL_NAME: "openai/gpt-oss-120b"
+TEMPERATURE: 0.7
+
+PROMPT:
+  KNOWLEDGE: SEARCH_KNOWLEDGE   # or TEXT_KNOWLEDGE
+  WITH_FIGURE: false
+  WITH_DETAIL_DIFFERENCE: true

@@ -1,0 +1,12 @@
+EXPERIMENT_TYPE: real_vs_sim
+EXP_CYCLES: 2
+RANDOM_SEED: 1234
+REAL_VS_SIM:
+  real_world_cell_dataset: CALCE
+  real_world_data_path: ../../real_world_data/CALCE_CS2_33.pkl
+RESULTS_DIR: ./results/{time_stamp}
+SIM_VS_SIM:
+  baseline_sim_config: ../../generate_simulated_data/output/simulated_data_setting_single_new_filtered.yaml
+  baseline_sim_id: 233
+  parameter_change:
+    Positive electrode thickness [m]: 0.00015000000000000001

@@ -1,0 +1,23 @@
+DEFAULT_PARAMS_SET: Chen2020
+EXP_INDEX: 0
+EXP_SETTING:
+  charge_c_rate: 1
+  discharge_c_rate: 1
+  exp_index: 0
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    SEI reaction exchange current density [A.m-2]: 3.0e-07
+MODEL_NAME: DFN
+MODEL_OPTIONS:
+  SEI: reaction limited
+  SEI film resistance: distributed
+SETTING_FILE: ../../generate_simulated_data/output/simulated_data_setting_SEI.yaml
+SINGLE_CYCLE:
+- Rest for 1 second
+- Charge at 1C until 4.2 V
+- Rest for 1 second
+- Hold at 4.2 V until C/20
+- Rest for 90 second
+- Discharge at 1C until 2.5 V
+- Rest for 90 second

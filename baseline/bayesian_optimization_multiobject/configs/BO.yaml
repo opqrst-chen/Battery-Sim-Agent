@@ -1,0 +1,62 @@
+BO_search_trials: 100
+battery:
+  nominal_capacity: 1.1
+loss_setting:
+  loss_type:
+    capacity:
+      calculate_cycles:
+        - 1
+      calculate_type:
+        - rmse
+        - mape
+    current:
+      calculate_cycles:
+        - 1
+      calculate_type:
+        - rmse
+        - mape
+    voltage:
+      calculate_cycles:
+        - 1
+      calculate_type:
+        - rmse
+        - mape
+pbounds:
+  Negative particle radius [m]:
+    min: 2.5e-06
+    max: 2.74e-05
+    Count: 90
+  Positive particle radius [m]:
+    min: 2.5e-08
+    max: 2.0e-05
+    Count: 86
+  Negative electrode thickness [m]:
+    min: 2.55e-05
+    max: 0.00015000000000000001
+    Count: 89
+  Positive electrode thickness [m]:
+    min: 4.0499999999999995e-05
+    max: 0.00015000000000000001
+    Count: 87
+  Negative electrode porosity:
+    min: 0.2
+    max: 0.41
+    Count: 89
+  Positive electrode porosity:
+    min: 0.246
+    max: 0.476
+    Count: 90
+  Negative electrode Bruggeman coefficient (electrolyte):
+    min: 1.5
+    max: 2.5
+    Count: 135
+  Positive electrode Bruggeman coefficient (electrolyte):
+    min: 1.3
+    max: 2.3
+    Count: 134
+  Separator thickness [m]:
+    min: 8.4e-06
+    max: 3.2500000000000004e-05
+    Count: 90
+
+scale_factor: 10000000000.0

@@ -1,0 +1,23 @@
+DEFAULT_PARAMS_SET: ORegan2022
+EXP_INDEX: 97
+EXP_SETTING:
+  charge_c_rate: 1
+  discharge_c_rate: 1
+  exp_index: 97
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Negative particle radius [m]: 1.172e-05
+MODEL_NAME: DFN
+MODEL_OPTIONS:
+  SEI: reaction limited
+  SEI film resistance: distributed
+SETTING_FILE: ../../generate_simulated_data/output/simulated_data_setting_single_new_filtered.yaml
+SINGLE_CYCLE:
+- Rest for 1 second
+- Charge at 1C until 4.4 V
+- Rest for 1 second
+- Hold at 4.4 V until C/20
+- Rest for 90 second
+- Discharge at 1C until 2.5 V
+- Rest for 90 second

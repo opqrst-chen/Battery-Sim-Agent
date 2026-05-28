@@ -1,0 +1,31 @@
+DEFAULT_PARAMS_SET: Chen2020
+EXP_INDEX: 4
+EXP_SETTING:
+  charge_c_rate: 0.2
+  discharge_c_rate: 0.2
+  exp_index: 4
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Negative electrode Bruggeman coefficient (electrolyte): 1.5
+    Negative electrode porosity: 0.31
+    Negative electrode thickness [m]: 9.372e-05
+    Negative particle radius [m]: 5.86e-06
+    Positive electrode Bruggeman coefficient (electrolyte): 1.5
+    Positive electrode porosity: 0.395
+    Positive electrode thickness [m]: 8.316e-05
+    Positive particle radius [m]: 5.22e-06
+    Separator thickness [m]: 1.2e-05
+MODEL_NAME: DFN
+MODEL_OPTIONS:
+  SEI: reaction limited
+  SEI film resistance: distributed
+SETTING_FILE: ../../generate_simulated_data/output/simulated_data_setting_multi_new_filtered.yaml
+SINGLE_CYCLE:
+- Rest for 1 second
+- Charge at 0.2C until 4.2 V
+- Rest for 1 second
+- Hold at 4.2 V until C/20
+- Rest for 90 second
+- Discharge at 0.2C until 2.5 V
+- Rest for 90 second

@@ -1,0 +1,20 @@
+SINGLE_CYCLE:
+  - Rest for 120 seconds
+  - Charge at C/2 until 4.2 V
+  - Rest for 120 seconds
+  - Hold at 4.2 V until 50 mA
+  - Rest for 90 seconds
+  - Discharge at C/2 until 2.7 V
+  - Rest for 90 seconds
+
+DEFAULT_PARAMS_SET: "Chen2020"
+MODEL_NAME: "DFN" # ["DFN", "SPMe"]
+MODEL_OPTIONS:
+  "SEI": "reaction limited"
+  # "SEI": "ec reaction limited",
+  "SEI film resistance": "average"
+  "SEI on cracks": "false"
+  "SEI porosity change": "true"
+  "lithium plating": "none"
+  "loss of active material": "none"
+  "particle mechanics": "none"

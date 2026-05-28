@@ -1,0 +1,37 @@
+0:
+  charge_c_rate: 1
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    SEI reaction exchange current density [A.m-2]: 3.0e-07
+1:
+  charge_c_rate: 1
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    SEI resistivity [Ohm.m]: 1000000.0
+2:
+  charge_c_rate: 1
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    SEI solvent diffusivity [m2.s-1]: 4.9999999999999997e-23
+3:
+  charge_c_rate: 1
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Ambient temperature [K]: 318.15
+    Initial temperature [K]: 318.15
+    SEI reaction exchange current density [A.m-2]: 3.0e-07
+4:
+  charge_c_rate: 1
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    SEI open-circuit potential [V]: 0.38

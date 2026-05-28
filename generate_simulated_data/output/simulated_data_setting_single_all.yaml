@@ -1,0 +1,6230 @@
+1:
+  charge_c_rate: 0.2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Negative particle radius [m]: 2.93e-06
+2:
+  charge_c_rate: 0.2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Negative particle radius [m]: 1.172e-05
+3:
+  charge_c_rate: 0.2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Positive particle radius [m]: 2.61e-06
+4:
+  charge_c_rate: 0.2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Positive particle radius [m]: 1.044e-05
+5:
+  charge_c_rate: 0.2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Negative electrode thickness [m]: 6.39e-05
+6:
+  charge_c_rate: 0.2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Negative electrode thickness [m]: 0.0001278
+7:
+  charge_c_rate: 0.2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Positive electrode thickness [m]: 5.6699999999999996e-05
+8:
+  charge_c_rate: 0.2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Positive electrode thickness [m]: 0.00011339999999999999
+9:
+  charge_c_rate: 0.2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Negative electrode porosity: 0.2
+10:
+  charge_c_rate: 0.2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Negative electrode porosity: 0.3
+11:
+  charge_c_rate: 0.2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Positive electrode porosity: 0.28500000000000003
+12:
+  charge_c_rate: 0.2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Positive electrode porosity: 0.385
+13:
+  charge_c_rate: 0.2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Negative electrode Bruggeman coefficient (electrolyte): 1.5
+14:
+  charge_c_rate: 0.2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Negative electrode Bruggeman coefficient (electrolyte): 2.0
+15:
+  charge_c_rate: 0.2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Negative electrode Bruggeman coefficient (electrolyte): 2.5
+16:
+  charge_c_rate: 0.2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Positive electrode Bruggeman coefficient (electrolyte): 1.3
+17:
+  charge_c_rate: 0.2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Positive electrode Bruggeman coefficient (electrolyte): 1.8
+18:
+  charge_c_rate: 0.2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Positive electrode Bruggeman coefficient (electrolyte): 2.3
+19:
+  charge_c_rate: 0.2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Separator thickness [m]: 8.4e-06
+20:
+  charge_c_rate: 0.2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Separator thickness [m]: 1.56e-05
+21:
+  charge_c_rate: 0.2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Negative particle radius [m]: 2.93e-06
+22:
+  charge_c_rate: 0.2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Negative particle radius [m]: 1.172e-05
+23:
+  charge_c_rate: 0.2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Positive particle radius [m]: 2.61e-06
+24:
+  charge_c_rate: 0.2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Negative electrode thickness [m]: 6.39e-05
+25:
+  charge_c_rate: 0.2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Negative electrode thickness [m]: 0.0001278
+26:
+  charge_c_rate: 0.2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Positive electrode thickness [m]: 0.00011339999999999999
+27:
+  charge_c_rate: 0.2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Negative electrode porosity: 0.2
+28:
+  charge_c_rate: 0.2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Negative electrode porosity: 0.3
+29:
+  charge_c_rate: 0.2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Positive electrode porosity: 0.28500000000000003
+30:
+  charge_c_rate: 0.2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Positive electrode porosity: 0.385
+31:
+  charge_c_rate: 0.2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Negative electrode Bruggeman coefficient (electrolyte): 1.5
+32:
+  charge_c_rate: 0.2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Negative electrode Bruggeman coefficient (electrolyte): 2.0
+33:
+  charge_c_rate: 0.2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Negative electrode Bruggeman coefficient (electrolyte): 2.5
+34:
+  charge_c_rate: 0.2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Positive electrode Bruggeman coefficient (electrolyte): 1.3
+35:
+  charge_c_rate: 0.2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Positive electrode Bruggeman coefficient (electrolyte): 1.8
+36:
+  charge_c_rate: 0.2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Positive electrode Bruggeman coefficient (electrolyte): 2.3
+37:
+  charge_c_rate: 0.2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Separator thickness [m]: 8.4e-06
+38:
+  charge_c_rate: 0.2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Separator thickness [m]: 1.56e-05
+39:
+  charge_c_rate: 0.2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Negative particle radius [m]: 2.93e-06
+40:
+  charge_c_rate: 0.2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Negative particle radius [m]: 1.172e-05
+41:
+  charge_c_rate: 0.2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Positive particle radius [m]: 2.61e-06
+42:
+  charge_c_rate: 0.2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Positive particle radius [m]: 1.044e-05
+43:
+  charge_c_rate: 0.2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Negative electrode thickness [m]: 6.39e-05
+44:
+  charge_c_rate: 0.2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Negative electrode thickness [m]: 0.0001278
+45:
+  charge_c_rate: 0.2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Positive electrode thickness [m]: 5.6699999999999996e-05
+46:
+  charge_c_rate: 0.2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Positive electrode thickness [m]: 0.00011339999999999999
+47:
+  charge_c_rate: 0.2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Negative electrode porosity: 0.2
+48:
+  charge_c_rate: 0.2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Negative electrode porosity: 0.3
+49:
+  charge_c_rate: 0.2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Positive electrode porosity: 0.28500000000000003
+50:
+  charge_c_rate: 0.2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Positive electrode porosity: 0.385
+51:
+  charge_c_rate: 0.2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Negative electrode Bruggeman coefficient (electrolyte): 1.5
+52:
+  charge_c_rate: 0.2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Negative electrode Bruggeman coefficient (electrolyte): 2.0
+53:
+  charge_c_rate: 0.2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Negative electrode Bruggeman coefficient (electrolyte): 2.5
+54:
+  charge_c_rate: 0.2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Positive electrode Bruggeman coefficient (electrolyte): 1.3
+55:
+  charge_c_rate: 0.2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Positive electrode Bruggeman coefficient (electrolyte): 1.8
+56:
+  charge_c_rate: 0.2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Positive electrode Bruggeman coefficient (electrolyte): 2.3
+57:
+  charge_c_rate: 0.2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Separator thickness [m]: 8.4e-06
+58:
+  charge_c_rate: 0.2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Separator thickness [m]: 1.56e-05
+59:
+  charge_c_rate: 1
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Negative particle radius [m]: 2.93e-06
+60:
+  charge_c_rate: 1
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Negative particle radius [m]: 1.172e-05
+61:
+  charge_c_rate: 1
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Positive particle radius [m]: 2.61e-06
+62:
+  charge_c_rate: 1
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Positive particle radius [m]: 1.044e-05
+63:
+  charge_c_rate: 1
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Negative electrode thickness [m]: 6.39e-05
+64:
+  charge_c_rate: 1
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Negative electrode thickness [m]: 0.0001278
+65:
+  charge_c_rate: 1
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Positive electrode thickness [m]: 5.6699999999999996e-05
+66:
+  charge_c_rate: 1
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Positive electrode thickness [m]: 0.00011339999999999999
+67:
+  charge_c_rate: 1
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Negative electrode porosity: 0.2
+68:
+  charge_c_rate: 1
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Negative electrode porosity: 0.3
+69:
+  charge_c_rate: 1
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Positive electrode porosity: 0.28500000000000003
+70:
+  charge_c_rate: 1
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Positive electrode porosity: 0.385
+71:
+  charge_c_rate: 1
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Negative electrode Bruggeman coefficient (electrolyte): 1.5
+72:
+  charge_c_rate: 1
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Negative electrode Bruggeman coefficient (electrolyte): 2.0
+73:
+  charge_c_rate: 1
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Negative electrode Bruggeman coefficient (electrolyte): 2.5
+74:
+  charge_c_rate: 1
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Positive electrode Bruggeman coefficient (electrolyte): 1.3
+75:
+  charge_c_rate: 1
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Positive electrode Bruggeman coefficient (electrolyte): 1.8
+76:
+  charge_c_rate: 1
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Positive electrode Bruggeman coefficient (electrolyte): 2.3
+77:
+  charge_c_rate: 1
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Separator thickness [m]: 8.4e-06
+78:
+  charge_c_rate: 1
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Separator thickness [m]: 1.56e-05
+79:
+  charge_c_rate: 1
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Negative particle radius [m]: 2.93e-06
+80:
+  charge_c_rate: 1
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Negative particle radius [m]: 1.172e-05
+81:
+  charge_c_rate: 1
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Positive particle radius [m]: 2.61e-06
+82:
+  charge_c_rate: 1
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Negative electrode thickness [m]: 6.39e-05
+83:
+  charge_c_rate: 1
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Negative electrode thickness [m]: 0.0001278
+84:
+  charge_c_rate: 1
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Positive electrode thickness [m]: 0.00011339999999999999
+85:
+  charge_c_rate: 1
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Negative electrode porosity: 0.2
+86:
+  charge_c_rate: 1
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Negative electrode porosity: 0.3
+87:
+  charge_c_rate: 1
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Positive electrode porosity: 0.28500000000000003
+88:
+  charge_c_rate: 1
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Positive electrode porosity: 0.385
+89:
+  charge_c_rate: 1
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Negative electrode Bruggeman coefficient (electrolyte): 1.5
+90:
+  charge_c_rate: 1
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Negative electrode Bruggeman coefficient (electrolyte): 2.0
+91:
+  charge_c_rate: 1
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Negative electrode Bruggeman coefficient (electrolyte): 2.5
+92:
+  charge_c_rate: 1
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Positive electrode Bruggeman coefficient (electrolyte): 1.3
+93:
+  charge_c_rate: 1
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Positive electrode Bruggeman coefficient (electrolyte): 1.8
+94:
+  charge_c_rate: 1
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Positive electrode Bruggeman coefficient (electrolyte): 2.3
+95:
+  charge_c_rate: 1
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Separator thickness [m]: 8.4e-06
+96:
+  charge_c_rate: 1
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Separator thickness [m]: 1.56e-05
+97:
+  charge_c_rate: 1
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Negative particle radius [m]: 2.93e-06
+98:
+  charge_c_rate: 1
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Negative particle radius [m]: 1.172e-05
+99:
+  charge_c_rate: 1
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Positive particle radius [m]: 2.61e-06
+100:
+  charge_c_rate: 1
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Positive particle radius [m]: 1.044e-05
+101:
+  charge_c_rate: 1
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Negative electrode thickness [m]: 6.39e-05
+102:
+  charge_c_rate: 1
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Negative electrode thickness [m]: 0.0001278
+103:
+  charge_c_rate: 1
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Positive electrode thickness [m]: 5.6699999999999996e-05
+104:
+  charge_c_rate: 1
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Positive electrode thickness [m]: 0.00011339999999999999
+105:
+  charge_c_rate: 1
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Negative electrode porosity: 0.2
+106:
+  charge_c_rate: 1
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Negative electrode porosity: 0.3
+107:
+  charge_c_rate: 1
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Positive electrode porosity: 0.28500000000000003
+108:
+  charge_c_rate: 1
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Positive electrode porosity: 0.385
+109:
+  charge_c_rate: 1
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Negative electrode Bruggeman coefficient (electrolyte): 1.5
+110:
+  charge_c_rate: 1
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Negative electrode Bruggeman coefficient (electrolyte): 2.0
+111:
+  charge_c_rate: 1
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Negative electrode Bruggeman coefficient (electrolyte): 2.5
+112:
+  charge_c_rate: 1
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Positive electrode Bruggeman coefficient (electrolyte): 1.3
+113:
+  charge_c_rate: 1
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Positive electrode Bruggeman coefficient (electrolyte): 1.8
+114:
+  charge_c_rate: 1
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Positive electrode Bruggeman coefficient (electrolyte): 2.3
+115:
+  charge_c_rate: 1
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Separator thickness [m]: 8.4e-06
+116:
+  charge_c_rate: 1
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Separator thickness [m]: 1.56e-05
+117:
+  charge_c_rate: 2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Negative particle radius [m]: 2.93e-06
+118:
+  charge_c_rate: 2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Negative particle radius [m]: 1.172e-05
+119:
+  charge_c_rate: 2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Positive particle radius [m]: 2.61e-06
+120:
+  charge_c_rate: 2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Positive particle radius [m]: 1.044e-05
+121:
+  charge_c_rate: 2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Negative electrode thickness [m]: 6.39e-05
+122:
+  charge_c_rate: 2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Negative electrode thickness [m]: 0.0001278
+123:
+  charge_c_rate: 2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Positive electrode thickness [m]: 5.6699999999999996e-05
+124:
+  charge_c_rate: 2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Positive electrode thickness [m]: 0.00011339999999999999
+125:
+  charge_c_rate: 2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Negative electrode porosity: 0.2
+126:
+  charge_c_rate: 2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Negative electrode porosity: 0.3
+127:
+  charge_c_rate: 2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Positive electrode porosity: 0.28500000000000003
+128:
+  charge_c_rate: 2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Positive electrode porosity: 0.385
+129:
+  charge_c_rate: 2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Negative electrode Bruggeman coefficient (electrolyte): 1.5
+130:
+  charge_c_rate: 2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Negative electrode Bruggeman coefficient (electrolyte): 2.0
+131:
+  charge_c_rate: 2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Negative electrode Bruggeman coefficient (electrolyte): 2.5
+132:
+  charge_c_rate: 2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Positive electrode Bruggeman coefficient (electrolyte): 1.3
+133:
+  charge_c_rate: 2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Positive electrode Bruggeman coefficient (electrolyte): 1.8
+134:
+  charge_c_rate: 2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Positive electrode Bruggeman coefficient (electrolyte): 2.3
+135:
+  charge_c_rate: 2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Separator thickness [m]: 8.4e-06
+136:
+  charge_c_rate: 2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Separator thickness [m]: 1.56e-05
+137:
+  charge_c_rate: 2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Negative particle radius [m]: 2.93e-06
+138:
+  charge_c_rate: 2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Negative particle radius [m]: 1.172e-05
+139:
+  charge_c_rate: 2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Positive particle radius [m]: 2.61e-06
+140:
+  charge_c_rate: 2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Negative electrode thickness [m]: 6.39e-05
+141:
+  charge_c_rate: 2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Negative electrode thickness [m]: 0.0001278
+142:
+  charge_c_rate: 2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Positive electrode thickness [m]: 0.00011339999999999999
+143:
+  charge_c_rate: 2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Negative electrode porosity: 0.2
+144:
+  charge_c_rate: 2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Negative electrode porosity: 0.3
+145:
+  charge_c_rate: 2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Positive electrode porosity: 0.28500000000000003
+146:
+  charge_c_rate: 2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Positive electrode porosity: 0.385
+147:
+  charge_c_rate: 2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Negative electrode Bruggeman coefficient (electrolyte): 1.5
+148:
+  charge_c_rate: 2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Negative electrode Bruggeman coefficient (electrolyte): 2.0
+149:
+  charge_c_rate: 2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Negative electrode Bruggeman coefficient (electrolyte): 2.5
+150:
+  charge_c_rate: 2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Positive electrode Bruggeman coefficient (electrolyte): 1.3
+151:
+  charge_c_rate: 2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Positive electrode Bruggeman coefficient (electrolyte): 1.8
+152:
+  charge_c_rate: 2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Positive electrode Bruggeman coefficient (electrolyte): 2.3
+153:
+  charge_c_rate: 2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Separator thickness [m]: 8.4e-06
+154:
+  charge_c_rate: 2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Separator thickness [m]: 1.56e-05
+155:
+  charge_c_rate: 2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Negative particle radius [m]: 2.93e-06
+156:
+  charge_c_rate: 2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Negative particle radius [m]: 1.172e-05
+157:
+  charge_c_rate: 2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Positive particle radius [m]: 2.61e-06
+158:
+  charge_c_rate: 2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Positive particle radius [m]: 1.044e-05
+159:
+  charge_c_rate: 2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Negative electrode thickness [m]: 6.39e-05
+160:
+  charge_c_rate: 2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Negative electrode thickness [m]: 0.0001278
+161:
+  charge_c_rate: 2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Positive electrode thickness [m]: 5.6699999999999996e-05
+162:
+  charge_c_rate: 2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Positive electrode thickness [m]: 0.00011339999999999999
+163:
+  charge_c_rate: 2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Negative electrode porosity: 0.2
+164:
+  charge_c_rate: 2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Negative electrode porosity: 0.3
+165:
+  charge_c_rate: 2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Positive electrode porosity: 0.28500000000000003
+166:
+  charge_c_rate: 2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Positive electrode porosity: 0.385
+167:
+  charge_c_rate: 2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Negative electrode Bruggeman coefficient (electrolyte): 1.5
+168:
+  charge_c_rate: 2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Negative electrode Bruggeman coefficient (electrolyte): 2.0
+169:
+  charge_c_rate: 2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Negative electrode Bruggeman coefficient (electrolyte): 2.5
+170:
+  charge_c_rate: 2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Positive electrode Bruggeman coefficient (electrolyte): 1.3
+171:
+  charge_c_rate: 2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Positive electrode Bruggeman coefficient (electrolyte): 1.8
+172:
+  charge_c_rate: 2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Positive electrode Bruggeman coefficient (electrolyte): 2.3
+173:
+  charge_c_rate: 2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Separator thickness [m]: 8.4e-06
+174:
+  charge_c_rate: 2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Chen2020
+  parameter_change:
+    Separator thickness [m]: 1.56e-05
+175:
+  charge_c_rate: 0.2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Negative particle radius [m]: 2.93e-06
+176:
+  charge_c_rate: 0.2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Negative particle radius [m]: 1.172e-05
+177:
+  charge_c_rate: 0.2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Positive particle radius [m]: 2.61e-06
+178:
+  charge_c_rate: 0.2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Positive particle radius [m]: 1.044e-05
+179:
+  charge_c_rate: 0.2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Negative electrode thickness [m]: 6.39e-05
+180:
+  charge_c_rate: 0.2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Negative electrode thickness [m]: 0.0001278
+181:
+  charge_c_rate: 0.2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Positive electrode thickness [m]: 5.6699999999999996e-05
+182:
+  charge_c_rate: 0.2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Positive electrode thickness [m]: 0.00011339999999999999
+183:
+  charge_c_rate: 0.2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Negative electrode porosity: 0.2
+184:
+  charge_c_rate: 0.2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Negative electrode porosity: 0.3
+185:
+  charge_c_rate: 0.2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Positive electrode porosity: 0.28500000000000003
+186:
+  charge_c_rate: 0.2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Positive electrode porosity: 0.385
+187:
+  charge_c_rate: 0.2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Negative electrode Bruggeman coefficient (electrolyte): 1.5
+188:
+  charge_c_rate: 0.2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Negative electrode Bruggeman coefficient (electrolyte): 2.0
+189:
+  charge_c_rate: 0.2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Negative electrode Bruggeman coefficient (electrolyte): 2.5
+190:
+  charge_c_rate: 0.2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Positive electrode Bruggeman coefficient (electrolyte): 1.3
+191:
+  charge_c_rate: 0.2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Positive electrode Bruggeman coefficient (electrolyte): 1.8
+192:
+  charge_c_rate: 0.2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Positive electrode Bruggeman coefficient (electrolyte): 2.3
+193:
+  charge_c_rate: 0.2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Separator thickness [m]: 8.4e-06
+194:
+  charge_c_rate: 0.2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Separator thickness [m]: 1.56e-05
+195:
+  charge_c_rate: 0.2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Negative particle radius [m]: 2.93e-06
+196:
+  charge_c_rate: 0.2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Negative particle radius [m]: 1.172e-05
+197:
+  charge_c_rate: 0.2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Positive particle radius [m]: 2.61e-06
+198:
+  charge_c_rate: 0.2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Positive particle radius [m]: 1.044e-05
+199:
+  charge_c_rate: 0.2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Negative electrode thickness [m]: 6.39e-05
+200:
+  charge_c_rate: 0.2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Negative electrode thickness [m]: 0.0001278
+201:
+  charge_c_rate: 0.2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Positive electrode thickness [m]: 5.6699999999999996e-05
+202:
+  charge_c_rate: 0.2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Positive electrode thickness [m]: 0.00011339999999999999
+203:
+  charge_c_rate: 0.2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Negative electrode porosity: 0.2
+204:
+  charge_c_rate: 0.2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Negative electrode porosity: 0.3
+205:
+  charge_c_rate: 0.2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Positive electrode porosity: 0.28500000000000003
+206:
+  charge_c_rate: 0.2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Positive electrode porosity: 0.385
+207:
+  charge_c_rate: 0.2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Negative electrode Bruggeman coefficient (electrolyte): 1.5
+208:
+  charge_c_rate: 0.2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Negative electrode Bruggeman coefficient (electrolyte): 2.0
+209:
+  charge_c_rate: 0.2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Negative electrode Bruggeman coefficient (electrolyte): 2.5
+210:
+  charge_c_rate: 0.2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Positive electrode Bruggeman coefficient (electrolyte): 1.3
+211:
+  charge_c_rate: 0.2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Positive electrode Bruggeman coefficient (electrolyte): 1.8
+212:
+  charge_c_rate: 0.2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Positive electrode Bruggeman coefficient (electrolyte): 2.3
+213:
+  charge_c_rate: 0.2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Separator thickness [m]: 8.4e-06
+214:
+  charge_c_rate: 0.2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Separator thickness [m]: 1.56e-05
+215:
+  charge_c_rate: 0.2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Negative particle radius [m]: 2.93e-06
+216:
+  charge_c_rate: 0.2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Negative particle radius [m]: 1.172e-05
+217:
+  charge_c_rate: 0.2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Positive particle radius [m]: 2.61e-06
+218:
+  charge_c_rate: 0.2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Positive particle radius [m]: 1.044e-05
+219:
+  charge_c_rate: 0.2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Negative electrode thickness [m]: 6.39e-05
+220:
+  charge_c_rate: 0.2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Negative electrode thickness [m]: 0.0001278
+221:
+  charge_c_rate: 0.2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Positive electrode thickness [m]: 5.6699999999999996e-05
+222:
+  charge_c_rate: 0.2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Positive electrode thickness [m]: 0.00011339999999999999
+223:
+  charge_c_rate: 0.2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Negative electrode porosity: 0.2
+224:
+  charge_c_rate: 0.2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Negative electrode porosity: 0.3
+225:
+  charge_c_rate: 0.2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Positive electrode porosity: 0.28500000000000003
+226:
+  charge_c_rate: 0.2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Positive electrode porosity: 0.385
+227:
+  charge_c_rate: 0.2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Negative electrode Bruggeman coefficient (electrolyte): 1.5
+228:
+  charge_c_rate: 0.2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Negative electrode Bruggeman coefficient (electrolyte): 2.0
+229:
+  charge_c_rate: 0.2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Negative electrode Bruggeman coefficient (electrolyte): 2.5
+230:
+  charge_c_rate: 0.2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Positive electrode Bruggeman coefficient (electrolyte): 1.3
+231:
+  charge_c_rate: 0.2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Positive electrode Bruggeman coefficient (electrolyte): 1.8
+232:
+  charge_c_rate: 0.2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Positive electrode Bruggeman coefficient (electrolyte): 2.3
+233:
+  charge_c_rate: 0.2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Separator thickness [m]: 8.4e-06
+234:
+  charge_c_rate: 0.2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Separator thickness [m]: 1.56e-05
+235:
+  charge_c_rate: 1
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Negative particle radius [m]: 2.93e-06
+236:
+  charge_c_rate: 1
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Negative particle radius [m]: 1.172e-05
+237:
+  charge_c_rate: 1
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Positive particle radius [m]: 2.61e-06
+238:
+  charge_c_rate: 1
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Positive particle radius [m]: 1.044e-05
+239:
+  charge_c_rate: 1
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Negative electrode thickness [m]: 6.39e-05
+240:
+  charge_c_rate: 1
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Negative electrode thickness [m]: 0.0001278
+241:
+  charge_c_rate: 1
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Positive electrode thickness [m]: 5.6699999999999996e-05
+242:
+  charge_c_rate: 1
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Positive electrode thickness [m]: 0.00011339999999999999
+243:
+  charge_c_rate: 1
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Negative electrode porosity: 0.2
+244:
+  charge_c_rate: 1
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Negative electrode porosity: 0.3
+245:
+  charge_c_rate: 1
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Positive electrode porosity: 0.28500000000000003
+246:
+  charge_c_rate: 1
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Positive electrode porosity: 0.385
+247:
+  charge_c_rate: 1
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Negative electrode Bruggeman coefficient (electrolyte): 1.5
+248:
+  charge_c_rate: 1
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Negative electrode Bruggeman coefficient (electrolyte): 2.0
+249:
+  charge_c_rate: 1
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Negative electrode Bruggeman coefficient (electrolyte): 2.5
+250:
+  charge_c_rate: 1
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Positive electrode Bruggeman coefficient (electrolyte): 1.3
+251:
+  charge_c_rate: 1
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Positive electrode Bruggeman coefficient (electrolyte): 1.8
+252:
+  charge_c_rate: 1
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Positive electrode Bruggeman coefficient (electrolyte): 2.3
+253:
+  charge_c_rate: 1
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Separator thickness [m]: 8.4e-06
+254:
+  charge_c_rate: 1
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Separator thickness [m]: 1.56e-05
+255:
+  charge_c_rate: 1
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Negative particle radius [m]: 2.93e-06
+256:
+  charge_c_rate: 1
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Negative particle radius [m]: 1.172e-05
+257:
+  charge_c_rate: 1
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Positive particle radius [m]: 2.61e-06
+258:
+  charge_c_rate: 1
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Negative electrode thickness [m]: 6.39e-05
+259:
+  charge_c_rate: 1
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Negative electrode thickness [m]: 0.0001278
+260:
+  charge_c_rate: 1
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Positive electrode thickness [m]: 5.6699999999999996e-05
+261:
+  charge_c_rate: 1
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Positive electrode thickness [m]: 0.00011339999999999999
+262:
+  charge_c_rate: 1
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Negative electrode porosity: 0.2
+263:
+  charge_c_rate: 1
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Negative electrode porosity: 0.3
+264:
+  charge_c_rate: 1
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Positive electrode porosity: 0.28500000000000003
+265:
+  charge_c_rate: 1
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Positive electrode porosity: 0.385
+266:
+  charge_c_rate: 1
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Negative electrode Bruggeman coefficient (electrolyte): 1.5
+267:
+  charge_c_rate: 1
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Negative electrode Bruggeman coefficient (electrolyte): 2.0
+268:
+  charge_c_rate: 1
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Negative electrode Bruggeman coefficient (electrolyte): 2.5
+269:
+  charge_c_rate: 1
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Positive electrode Bruggeman coefficient (electrolyte): 1.3
+270:
+  charge_c_rate: 1
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Positive electrode Bruggeman coefficient (electrolyte): 1.8
+271:
+  charge_c_rate: 1
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Positive electrode Bruggeman coefficient (electrolyte): 2.3
+272:
+  charge_c_rate: 1
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Separator thickness [m]: 8.4e-06
+273:
+  charge_c_rate: 1
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Separator thickness [m]: 1.56e-05
+274:
+  charge_c_rate: 1
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Negative particle radius [m]: 2.93e-06
+275:
+  charge_c_rate: 1
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Negative particle radius [m]: 1.172e-05
+276:
+  charge_c_rate: 1
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Positive particle radius [m]: 2.61e-06
+277:
+  charge_c_rate: 1
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Positive particle radius [m]: 1.044e-05
+278:
+  charge_c_rate: 1
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Negative electrode thickness [m]: 6.39e-05
+279:
+  charge_c_rate: 1
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Negative electrode thickness [m]: 0.0001278
+280:
+  charge_c_rate: 1
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Positive electrode thickness [m]: 5.6699999999999996e-05
+281:
+  charge_c_rate: 1
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Positive electrode thickness [m]: 0.00011339999999999999
+282:
+  charge_c_rate: 1
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Negative electrode porosity: 0.2
+283:
+  charge_c_rate: 1
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Negative electrode porosity: 0.3
+284:
+  charge_c_rate: 1
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Positive electrode porosity: 0.28500000000000003
+285:
+  charge_c_rate: 1
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Positive electrode porosity: 0.385
+286:
+  charge_c_rate: 1
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Negative electrode Bruggeman coefficient (electrolyte): 1.5
+287:
+  charge_c_rate: 1
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Negative electrode Bruggeman coefficient (electrolyte): 2.0
+288:
+  charge_c_rate: 1
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Negative electrode Bruggeman coefficient (electrolyte): 2.5
+289:
+  charge_c_rate: 1
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Positive electrode Bruggeman coefficient (electrolyte): 1.3
+290:
+  charge_c_rate: 1
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Positive electrode Bruggeman coefficient (electrolyte): 1.8
+291:
+  charge_c_rate: 1
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Positive electrode Bruggeman coefficient (electrolyte): 2.3
+292:
+  charge_c_rate: 1
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Separator thickness [m]: 8.4e-06
+293:
+  charge_c_rate: 1
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Separator thickness [m]: 1.56e-05
+294:
+  charge_c_rate: 2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Negative particle radius [m]: 2.93e-06
+295:
+  charge_c_rate: 2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Negative particle radius [m]: 1.172e-05
+296:
+  charge_c_rate: 2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Positive particle radius [m]: 2.61e-06
+297:
+  charge_c_rate: 2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Positive particle radius [m]: 1.044e-05
+298:
+  charge_c_rate: 2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Negative electrode thickness [m]: 6.39e-05
+299:
+  charge_c_rate: 2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Negative electrode thickness [m]: 0.0001278
+300:
+  charge_c_rate: 2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Positive electrode thickness [m]: 5.6699999999999996e-05
+301:
+  charge_c_rate: 2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Positive electrode thickness [m]: 0.00011339999999999999
+302:
+  charge_c_rate: 2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Negative electrode porosity: 0.2
+303:
+  charge_c_rate: 2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Negative electrode porosity: 0.3
+304:
+  charge_c_rate: 2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Positive electrode porosity: 0.28500000000000003
+305:
+  charge_c_rate: 2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Positive electrode porosity: 0.385
+306:
+  charge_c_rate: 2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Negative electrode Bruggeman coefficient (electrolyte): 1.5
+307:
+  charge_c_rate: 2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Negative electrode Bruggeman coefficient (electrolyte): 2.0
+308:
+  charge_c_rate: 2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Negative electrode Bruggeman coefficient (electrolyte): 2.5
+309:
+  charge_c_rate: 2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Positive electrode Bruggeman coefficient (electrolyte): 1.3
+310:
+  charge_c_rate: 2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Positive electrode Bruggeman coefficient (electrolyte): 1.8
+311:
+  charge_c_rate: 2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Separator thickness [m]: 8.4e-06
+312:
+  charge_c_rate: 2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Separator thickness [m]: 1.56e-05
+313:
+  charge_c_rate: 2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Negative particle radius [m]: 2.93e-06
+314:
+  charge_c_rate: 2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Negative particle radius [m]: 1.172e-05
+315:
+  charge_c_rate: 2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Positive particle radius [m]: 2.61e-06
+316:
+  charge_c_rate: 2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Positive particle radius [m]: 1.044e-05
+317:
+  charge_c_rate: 2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Negative electrode thickness [m]: 6.39e-05
+318:
+  charge_c_rate: 2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Negative electrode thickness [m]: 0.0001278
+319:
+  charge_c_rate: 2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Positive electrode thickness [m]: 5.6699999999999996e-05
+320:
+  charge_c_rate: 2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Positive electrode thickness [m]: 0.00011339999999999999
+321:
+  charge_c_rate: 2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Negative electrode porosity: 0.3
+322:
+  charge_c_rate: 2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Positive electrode porosity: 0.28500000000000003
+323:
+  charge_c_rate: 2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Positive electrode porosity: 0.385
+324:
+  charge_c_rate: 2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Negative electrode Bruggeman coefficient (electrolyte): 1.5
+325:
+  charge_c_rate: 2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Negative electrode Bruggeman coefficient (electrolyte): 2.0
+326:
+  charge_c_rate: 2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Negative electrode Bruggeman coefficient (electrolyte): 2.5
+327:
+  charge_c_rate: 2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Positive electrode Bruggeman coefficient (electrolyte): 1.3
+328:
+  charge_c_rate: 2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Positive electrode Bruggeman coefficient (electrolyte): 1.8
+329:
+  charge_c_rate: 2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Positive electrode Bruggeman coefficient (electrolyte): 2.3
+330:
+  charge_c_rate: 2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Separator thickness [m]: 8.4e-06
+331:
+  charge_c_rate: 2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Separator thickness [m]: 1.56e-05
+332:
+  charge_c_rate: 2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Negative particle radius [m]: 2.93e-06
+333:
+  charge_c_rate: 2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Negative particle radius [m]: 1.172e-05
+334:
+  charge_c_rate: 2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Positive particle radius [m]: 2.61e-06
+335:
+  charge_c_rate: 2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Positive particle radius [m]: 1.044e-05
+336:
+  charge_c_rate: 2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Negative electrode thickness [m]: 6.39e-05
+337:
+  charge_c_rate: 2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Negative electrode thickness [m]: 0.0001278
+338:
+  charge_c_rate: 2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Positive electrode thickness [m]: 5.6699999999999996e-05
+339:
+  charge_c_rate: 2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Positive electrode thickness [m]: 0.00011339999999999999
+340:
+  charge_c_rate: 2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Negative electrode porosity: 0.2
+341:
+  charge_c_rate: 2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Negative electrode porosity: 0.3
+342:
+  charge_c_rate: 2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Positive electrode porosity: 0.28500000000000003
+343:
+  charge_c_rate: 2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Positive electrode porosity: 0.385
+344:
+  charge_c_rate: 2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Negative electrode Bruggeman coefficient (electrolyte): 1.5
+345:
+  charge_c_rate: 2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Negative electrode Bruggeman coefficient (electrolyte): 2.0
+346:
+  charge_c_rate: 2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Negative electrode Bruggeman coefficient (electrolyte): 2.5
+347:
+  charge_c_rate: 2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Positive electrode Bruggeman coefficient (electrolyte): 1.3
+348:
+  charge_c_rate: 2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Positive electrode Bruggeman coefficient (electrolyte): 1.8
+349:
+  charge_c_rate: 2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Positive electrode Bruggeman coefficient (electrolyte): 2.3
+350:
+  charge_c_rate: 2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Separator thickness [m]: 8.4e-06
+351:
+  charge_c_rate: 2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: ORegan2022
+  parameter_change:
+    Separator thickness [m]: 1.56e-05
+352:
+  charge_c_rate: 0.2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Negative particle radius [m]: 2.5e-06
+353:
+  charge_c_rate: 0.2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Negative particle radius [m]: 1.0e-05
+354:
+  charge_c_rate: 0.2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Positive particle radius [m]: 2.5e-08
+355:
+  charge_c_rate: 0.2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Positive particle radius [m]: 1.0e-07
+356:
+  charge_c_rate: 0.2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Negative electrode thickness [m]: 2.55e-05
+357:
+  charge_c_rate: 0.2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Negative electrode thickness [m]: 5.1e-05
+358:
+  charge_c_rate: 0.2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Positive electrode thickness [m]: 6.000000000000001e-05
+359:
+  charge_c_rate: 0.2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Positive electrode thickness [m]: 0.00012000000000000002
+360:
+  charge_c_rate: 0.2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Negative electrode porosity: 0.31
+361:
+  charge_c_rate: 0.2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Negative electrode porosity: 0.41
+362:
+  charge_c_rate: 0.2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Positive electrode porosity: 0.376
+363:
+  charge_c_rate: 0.2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Positive electrode porosity: 0.476
+364:
+  charge_c_rate: 0.2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Negative electrode Bruggeman coefficient (electrolyte): 1.5
+365:
+  charge_c_rate: 0.2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Negative electrode Bruggeman coefficient (electrolyte): 2.0
+366:
+  charge_c_rate: 0.2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Negative electrode Bruggeman coefficient (electrolyte): 2.5
+367:
+  charge_c_rate: 0.2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Positive electrode Bruggeman coefficient (electrolyte): 1.3
+368:
+  charge_c_rate: 0.2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Positive electrode Bruggeman coefficient (electrolyte): 1.8
+369:
+  charge_c_rate: 0.2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Positive electrode Bruggeman coefficient (electrolyte): 2.3
+370:
+  charge_c_rate: 0.2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Separator thickness [m]: 1.75e-05
+371:
+  charge_c_rate: 0.2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Separator thickness [m]: 3.2500000000000004e-05
+372:
+  charge_c_rate: 0.2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Negative particle radius [m]: 2.5e-06
+373:
+  charge_c_rate: 0.2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Negative particle radius [m]: 1.0e-05
+374:
+  charge_c_rate: 0.2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Positive particle radius [m]: 2.5e-08
+375:
+  charge_c_rate: 0.2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Positive particle radius [m]: 1.0e-07
+376:
+  charge_c_rate: 0.2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Negative electrode thickness [m]: 2.55e-05
+377:
+  charge_c_rate: 0.2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Negative electrode thickness [m]: 5.1e-05
+378:
+  charge_c_rate: 0.2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Positive electrode thickness [m]: 6.000000000000001e-05
+379:
+  charge_c_rate: 0.2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Positive electrode thickness [m]: 0.00012000000000000002
+380:
+  charge_c_rate: 0.2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Negative electrode porosity: 0.31
+381:
+  charge_c_rate: 0.2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Negative electrode porosity: 0.41
+382:
+  charge_c_rate: 0.2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Positive electrode porosity: 0.376
+383:
+  charge_c_rate: 0.2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Positive electrode porosity: 0.476
+384:
+  charge_c_rate: 0.2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Negative electrode Bruggeman coefficient (electrolyte): 1.5
+385:
+  charge_c_rate: 0.2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Negative electrode Bruggeman coefficient (electrolyte): 2.0
+386:
+  charge_c_rate: 0.2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Negative electrode Bruggeman coefficient (electrolyte): 2.5
+387:
+  charge_c_rate: 0.2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Positive electrode Bruggeman coefficient (electrolyte): 1.3
+388:
+  charge_c_rate: 0.2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Positive electrode Bruggeman coefficient (electrolyte): 1.8
+389:
+  charge_c_rate: 0.2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Positive electrode Bruggeman coefficient (electrolyte): 2.3
+390:
+  charge_c_rate: 0.2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Separator thickness [m]: 1.75e-05
+391:
+  charge_c_rate: 0.2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Separator thickness [m]: 3.2500000000000004e-05
+392:
+  charge_c_rate: 0.2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Negative particle radius [m]: 2.5e-06
+393:
+  charge_c_rate: 0.2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Negative particle radius [m]: 1.0e-05
+394:
+  charge_c_rate: 0.2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Positive particle radius [m]: 2.5e-08
+395:
+  charge_c_rate: 0.2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Positive particle radius [m]: 1.0e-07
+396:
+  charge_c_rate: 0.2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Negative electrode thickness [m]: 2.55e-05
+397:
+  charge_c_rate: 0.2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Negative electrode thickness [m]: 5.1e-05
+398:
+  charge_c_rate: 0.2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Positive electrode thickness [m]: 6.000000000000001e-05
+399:
+  charge_c_rate: 0.2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Positive electrode thickness [m]: 0.00012000000000000002
+400:
+  charge_c_rate: 0.2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Negative electrode porosity: 0.31
+401:
+  charge_c_rate: 0.2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Negative electrode porosity: 0.41
+402:
+  charge_c_rate: 0.2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Positive electrode porosity: 0.376
+403:
+  charge_c_rate: 0.2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Positive electrode porosity: 0.476
+404:
+  charge_c_rate: 0.2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Negative electrode Bruggeman coefficient (electrolyte): 1.5
+405:
+  charge_c_rate: 0.2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Negative electrode Bruggeman coefficient (electrolyte): 2.0
+406:
+  charge_c_rate: 0.2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Negative electrode Bruggeman coefficient (electrolyte): 2.5
+407:
+  charge_c_rate: 0.2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Positive electrode Bruggeman coefficient (electrolyte): 1.3
+408:
+  charge_c_rate: 0.2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Positive electrode Bruggeman coefficient (electrolyte): 1.8
+409:
+  charge_c_rate: 0.2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Positive electrode Bruggeman coefficient (electrolyte): 2.3
+410:
+  charge_c_rate: 0.2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Separator thickness [m]: 1.75e-05
+411:
+  charge_c_rate: 0.2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Separator thickness [m]: 3.2500000000000004e-05
+412:
+  charge_c_rate: 1
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Negative particle radius [m]: 2.5e-06
+413:
+  charge_c_rate: 1
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Negative particle radius [m]: 1.0e-05
+414:
+  charge_c_rate: 1
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Positive particle radius [m]: 2.5e-08
+415:
+  charge_c_rate: 1
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Positive particle radius [m]: 1.0e-07
+416:
+  charge_c_rate: 1
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Negative electrode thickness [m]: 2.55e-05
+417:
+  charge_c_rate: 1
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Negative electrode thickness [m]: 5.1e-05
+418:
+  charge_c_rate: 1
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Positive electrode thickness [m]: 6.000000000000001e-05
+419:
+  charge_c_rate: 1
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Positive electrode thickness [m]: 0.00012000000000000002
+420:
+  charge_c_rate: 1
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Negative electrode porosity: 0.31
+421:
+  charge_c_rate: 1
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Negative electrode porosity: 0.41
+422:
+  charge_c_rate: 1
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Positive electrode porosity: 0.376
+423:
+  charge_c_rate: 1
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Positive electrode porosity: 0.476
+424:
+  charge_c_rate: 1
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Negative electrode Bruggeman coefficient (electrolyte): 1.5
+425:
+  charge_c_rate: 1
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Negative electrode Bruggeman coefficient (electrolyte): 2.0
+426:
+  charge_c_rate: 1
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Negative electrode Bruggeman coefficient (electrolyte): 2.5
+427:
+  charge_c_rate: 1
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Positive electrode Bruggeman coefficient (electrolyte): 1.3
+428:
+  charge_c_rate: 1
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Positive electrode Bruggeman coefficient (electrolyte): 1.8
+429:
+  charge_c_rate: 1
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Positive electrode Bruggeman coefficient (electrolyte): 2.3
+430:
+  charge_c_rate: 1
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Separator thickness [m]: 1.75e-05
+431:
+  charge_c_rate: 1
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Separator thickness [m]: 3.2500000000000004e-05
+432:
+  charge_c_rate: 1
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Negative particle radius [m]: 2.5e-06
+433:
+  charge_c_rate: 1
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Negative particle radius [m]: 1.0e-05
+434:
+  charge_c_rate: 1
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Positive particle radius [m]: 2.5e-08
+435:
+  charge_c_rate: 1
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Positive particle radius [m]: 1.0e-07
+436:
+  charge_c_rate: 1
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Negative electrode thickness [m]: 2.55e-05
+437:
+  charge_c_rate: 1
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Negative electrode thickness [m]: 5.1e-05
+438:
+  charge_c_rate: 1
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Positive electrode thickness [m]: 6.000000000000001e-05
+439:
+  charge_c_rate: 1
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Positive electrode thickness [m]: 0.00012000000000000002
+440:
+  charge_c_rate: 1
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Negative electrode porosity: 0.31
+441:
+  charge_c_rate: 1
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Negative electrode porosity: 0.41
+442:
+  charge_c_rate: 1
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Positive electrode porosity: 0.376
+443:
+  charge_c_rate: 1
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Positive electrode porosity: 0.476
+444:
+  charge_c_rate: 1
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Negative electrode Bruggeman coefficient (electrolyte): 1.5
+445:
+  charge_c_rate: 1
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Negative electrode Bruggeman coefficient (electrolyte): 2.0
+446:
+  charge_c_rate: 1
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Negative electrode Bruggeman coefficient (electrolyte): 2.5
+447:
+  charge_c_rate: 1
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Positive electrode Bruggeman coefficient (electrolyte): 1.3
+448:
+  charge_c_rate: 1
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Positive electrode Bruggeman coefficient (electrolyte): 1.8
+449:
+  charge_c_rate: 1
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Positive electrode Bruggeman coefficient (electrolyte): 2.3
+450:
+  charge_c_rate: 1
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Separator thickness [m]: 1.75e-05
+451:
+  charge_c_rate: 1
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Separator thickness [m]: 3.2500000000000004e-05
+452:
+  charge_c_rate: 1
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Negative particle radius [m]: 2.5e-06
+453:
+  charge_c_rate: 1
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Negative particle radius [m]: 1.0e-05
+454:
+  charge_c_rate: 1
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Positive particle radius [m]: 2.5e-08
+455:
+  charge_c_rate: 1
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Positive particle radius [m]: 1.0e-07
+456:
+  charge_c_rate: 1
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Negative electrode thickness [m]: 2.55e-05
+457:
+  charge_c_rate: 1
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Negative electrode thickness [m]: 5.1e-05
+458:
+  charge_c_rate: 1
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Positive electrode thickness [m]: 6.000000000000001e-05
+459:
+  charge_c_rate: 1
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Positive electrode thickness [m]: 0.00012000000000000002
+460:
+  charge_c_rate: 1
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Negative electrode porosity: 0.31
+461:
+  charge_c_rate: 1
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Negative electrode porosity: 0.41
+462:
+  charge_c_rate: 1
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Positive electrode porosity: 0.376
+463:
+  charge_c_rate: 1
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Positive electrode porosity: 0.476
+464:
+  charge_c_rate: 1
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Negative electrode Bruggeman coefficient (electrolyte): 1.5
+465:
+  charge_c_rate: 1
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Negative electrode Bruggeman coefficient (electrolyte): 2.0
+466:
+  charge_c_rate: 1
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Negative electrode Bruggeman coefficient (electrolyte): 2.5
+467:
+  charge_c_rate: 1
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Positive electrode Bruggeman coefficient (electrolyte): 1.3
+468:
+  charge_c_rate: 1
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Positive electrode Bruggeman coefficient (electrolyte): 1.8
+469:
+  charge_c_rate: 1
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Positive electrode Bruggeman coefficient (electrolyte): 2.3
+470:
+  charge_c_rate: 1
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Separator thickness [m]: 1.75e-05
+471:
+  charge_c_rate: 1
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Separator thickness [m]: 3.2500000000000004e-05
+472:
+  charge_c_rate: 2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Negative particle radius [m]: 2.5e-06
+473:
+  charge_c_rate: 2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Negative particle radius [m]: 1.0e-05
+474:
+  charge_c_rate: 2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Positive particle radius [m]: 2.5e-08
+475:
+  charge_c_rate: 2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Positive particle radius [m]: 1.0e-07
+476:
+  charge_c_rate: 2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Negative electrode thickness [m]: 2.55e-05
+477:
+  charge_c_rate: 2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Negative electrode thickness [m]: 5.1e-05
+478:
+  charge_c_rate: 2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Positive electrode thickness [m]: 6.000000000000001e-05
+479:
+  charge_c_rate: 2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Positive electrode thickness [m]: 0.00012000000000000002
+480:
+  charge_c_rate: 2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Negative electrode porosity: 0.31
+481:
+  charge_c_rate: 2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Negative electrode porosity: 0.41
+482:
+  charge_c_rate: 2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Positive electrode porosity: 0.376
+483:
+  charge_c_rate: 2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Positive electrode porosity: 0.476
+484:
+  charge_c_rate: 2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Negative electrode Bruggeman coefficient (electrolyte): 1.5
+485:
+  charge_c_rate: 2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Negative electrode Bruggeman coefficient (electrolyte): 2.0
+486:
+  charge_c_rate: 2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Negative electrode Bruggeman coefficient (electrolyte): 2.5
+487:
+  charge_c_rate: 2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Positive electrode Bruggeman coefficient (electrolyte): 1.3
+488:
+  charge_c_rate: 2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Positive electrode Bruggeman coefficient (electrolyte): 1.8
+489:
+  charge_c_rate: 2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Positive electrode Bruggeman coefficient (electrolyte): 2.3
+490:
+  charge_c_rate: 2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Separator thickness [m]: 1.75e-05
+491:
+  charge_c_rate: 2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Separator thickness [m]: 3.2500000000000004e-05
+492:
+  charge_c_rate: 2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Negative particle radius [m]: 2.5e-06
+493:
+  charge_c_rate: 2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Negative particle radius [m]: 1.0e-05
+494:
+  charge_c_rate: 2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Positive particle radius [m]: 2.5e-08
+495:
+  charge_c_rate: 2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Positive particle radius [m]: 1.0e-07
+496:
+  charge_c_rate: 2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Negative electrode thickness [m]: 2.55e-05
+497:
+  charge_c_rate: 2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Negative electrode thickness [m]: 5.1e-05
+498:
+  charge_c_rate: 2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Positive electrode thickness [m]: 6.000000000000001e-05
+499:
+  charge_c_rate: 2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Positive electrode thickness [m]: 0.00012000000000000002
+500:
+  charge_c_rate: 2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Negative electrode porosity: 0.31
+501:
+  charge_c_rate: 2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Negative electrode porosity: 0.41
+502:
+  charge_c_rate: 2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Positive electrode porosity: 0.376
+503:
+  charge_c_rate: 2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Positive electrode porosity: 0.476
+504:
+  charge_c_rate: 2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Negative electrode Bruggeman coefficient (electrolyte): 1.5
+505:
+  charge_c_rate: 2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Negative electrode Bruggeman coefficient (electrolyte): 2.0
+506:
+  charge_c_rate: 2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Negative electrode Bruggeman coefficient (electrolyte): 2.5
+507:
+  charge_c_rate: 2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Positive electrode Bruggeman coefficient (electrolyte): 1.3
+508:
+  charge_c_rate: 2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Positive electrode Bruggeman coefficient (electrolyte): 1.8
+509:
+  charge_c_rate: 2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Positive electrode Bruggeman coefficient (electrolyte): 2.3
+510:
+  charge_c_rate: 2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Separator thickness [m]: 1.75e-05
+511:
+  charge_c_rate: 2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Separator thickness [m]: 3.2500000000000004e-05
+512:
+  charge_c_rate: 2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Negative particle radius [m]: 2.5e-06
+513:
+  charge_c_rate: 2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Negative particle radius [m]: 1.0e-05
+514:
+  charge_c_rate: 2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Positive particle radius [m]: 2.5e-08
+515:
+  charge_c_rate: 2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Positive particle radius [m]: 1.0e-07
+516:
+  charge_c_rate: 2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Negative electrode thickness [m]: 2.55e-05
+517:
+  charge_c_rate: 2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Negative electrode thickness [m]: 5.1e-05
+518:
+  charge_c_rate: 2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Positive electrode thickness [m]: 6.000000000000001e-05
+519:
+  charge_c_rate: 2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Positive electrode thickness [m]: 0.00012000000000000002
+520:
+  charge_c_rate: 2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Negative electrode porosity: 0.31
+521:
+  charge_c_rate: 2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Negative electrode porosity: 0.41
+522:
+  charge_c_rate: 2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Positive electrode porosity: 0.376
+523:
+  charge_c_rate: 2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Positive electrode porosity: 0.476
+524:
+  charge_c_rate: 2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Negative electrode Bruggeman coefficient (electrolyte): 1.5
+525:
+  charge_c_rate: 2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Negative electrode Bruggeman coefficient (electrolyte): 2.0
+526:
+  charge_c_rate: 2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Negative electrode Bruggeman coefficient (electrolyte): 2.5
+527:
+  charge_c_rate: 2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Positive electrode Bruggeman coefficient (electrolyte): 1.3
+528:
+  charge_c_rate: 2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Positive electrode Bruggeman coefficient (electrolyte): 1.8
+529:
+  charge_c_rate: 2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Positive electrode Bruggeman coefficient (electrolyte): 2.3
+530:
+  charge_c_rate: 2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Separator thickness [m]: 1.75e-05
+531:
+  charge_c_rate: 2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Prada2013
+  parameter_change:
+    Separator thickness [m]: 3.2500000000000004e-05
+532:
+  charge_c_rate: 0.2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Negative particle radius [m]: 6.85e-06
+533:
+  charge_c_rate: 0.2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Negative particle radius [m]: 2.74e-05
+534:
+  charge_c_rate: 0.2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Positive particle radius [m]: 3.25e-06
+535:
+  charge_c_rate: 0.2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Positive particle radius [m]: 1.3e-05
+536:
+  charge_c_rate: 0.2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Negative electrode thickness [m]: 5.5499999999999994e-05
+537:
+  charge_c_rate: 0.2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Negative electrode thickness [m]: 0.00011099999999999999
+538:
+  charge_c_rate: 0.2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Positive electrode thickness [m]: 4.0499999999999995e-05
+539:
+  charge_c_rate: 0.2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Positive electrode thickness [m]: 8.099999999999999e-05
+540:
+  charge_c_rate: 0.2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Negative electrode porosity: 0.279
+541:
+  charge_c_rate: 0.2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Negative electrode porosity: 0.379
+542:
+  charge_c_rate: 0.2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Positive electrode porosity: 0.246
+543:
+  charge_c_rate: 0.2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Positive electrode porosity: 0.346
+544:
+  charge_c_rate: 0.2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Negative electrode Bruggeman coefficient (electrolyte): 1.5
+545:
+  charge_c_rate: 0.2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Negative electrode Bruggeman coefficient (electrolyte): 2.0
+546:
+  charge_c_rate: 0.2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Negative electrode Bruggeman coefficient (electrolyte): 2.5
+547:
+  charge_c_rate: 0.2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Positive electrode Bruggeman coefficient (electrolyte): 1.3
+548:
+  charge_c_rate: 0.2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Positive electrode Bruggeman coefficient (electrolyte): 1.8
+549:
+  charge_c_rate: 0.2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Positive electrode Bruggeman coefficient (electrolyte): 2.3
+550:
+  charge_c_rate: 0.2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Separator thickness [m]: 1.4e-05
+551:
+  charge_c_rate: 0.2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Separator thickness [m]: 2.6000000000000002e-05
+552:
+  charge_c_rate: 0.2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Negative particle radius [m]: 6.85e-06
+553:
+  charge_c_rate: 0.2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Negative particle radius [m]: 2.74e-05
+554:
+  charge_c_rate: 0.2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Positive particle radius [m]: 3.25e-06
+555:
+  charge_c_rate: 0.2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Positive particle radius [m]: 1.3e-05
+556:
+  charge_c_rate: 0.2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Negative electrode thickness [m]: 5.5499999999999994e-05
+557:
+  charge_c_rate: 0.2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Negative electrode thickness [m]: 0.00011099999999999999
+558:
+  charge_c_rate: 0.2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Positive electrode thickness [m]: 4.0499999999999995e-05
+559:
+  charge_c_rate: 0.2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Positive electrode thickness [m]: 8.099999999999999e-05
+560:
+  charge_c_rate: 0.2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Negative electrode porosity: 0.279
+561:
+  charge_c_rate: 0.2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Negative electrode porosity: 0.379
+562:
+  charge_c_rate: 0.2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Positive electrode porosity: 0.246
+563:
+  charge_c_rate: 0.2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Positive electrode porosity: 0.346
+564:
+  charge_c_rate: 0.2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Negative electrode Bruggeman coefficient (electrolyte): 1.5
+565:
+  charge_c_rate: 0.2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Negative electrode Bruggeman coefficient (electrolyte): 2.0
+566:
+  charge_c_rate: 0.2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Negative electrode Bruggeman coefficient (electrolyte): 2.5
+567:
+  charge_c_rate: 0.2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Positive electrode Bruggeman coefficient (electrolyte): 1.3
+568:
+  charge_c_rate: 0.2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Positive electrode Bruggeman coefficient (electrolyte): 1.8
+569:
+  charge_c_rate: 0.2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Positive electrode Bruggeman coefficient (electrolyte): 2.3
+570:
+  charge_c_rate: 0.2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Separator thickness [m]: 1.4e-05
+571:
+  charge_c_rate: 0.2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Separator thickness [m]: 2.6000000000000002e-05
+572:
+  charge_c_rate: 0.2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Negative particle radius [m]: 6.85e-06
+573:
+  charge_c_rate: 0.2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Negative particle radius [m]: 2.74e-05
+574:
+  charge_c_rate: 0.2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Positive particle radius [m]: 3.25e-06
+575:
+  charge_c_rate: 0.2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Positive particle radius [m]: 1.3e-05
+576:
+  charge_c_rate: 0.2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Negative electrode thickness [m]: 5.5499999999999994e-05
+577:
+  charge_c_rate: 0.2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Negative electrode thickness [m]: 0.00011099999999999999
+578:
+  charge_c_rate: 0.2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Positive electrode thickness [m]: 4.0499999999999995e-05
+579:
+  charge_c_rate: 0.2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Positive electrode thickness [m]: 8.099999999999999e-05
+580:
+  charge_c_rate: 0.2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Negative electrode porosity: 0.279
+581:
+  charge_c_rate: 0.2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Negative electrode porosity: 0.379
+582:
+  charge_c_rate: 0.2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Positive electrode porosity: 0.246
+583:
+  charge_c_rate: 0.2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Positive electrode porosity: 0.346
+584:
+  charge_c_rate: 0.2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Negative electrode Bruggeman coefficient (electrolyte): 1.5
+585:
+  charge_c_rate: 0.2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Negative electrode Bruggeman coefficient (electrolyte): 2.0
+586:
+  charge_c_rate: 0.2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Negative electrode Bruggeman coefficient (electrolyte): 2.5
+587:
+  charge_c_rate: 0.2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Positive electrode Bruggeman coefficient (electrolyte): 1.3
+588:
+  charge_c_rate: 0.2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Positive electrode Bruggeman coefficient (electrolyte): 1.8
+589:
+  charge_c_rate: 0.2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Positive electrode Bruggeman coefficient (electrolyte): 2.3
+590:
+  charge_c_rate: 0.2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Separator thickness [m]: 1.4e-05
+591:
+  charge_c_rate: 0.2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Separator thickness [m]: 2.6000000000000002e-05
+592:
+  charge_c_rate: 1
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Negative particle radius [m]: 6.85e-06
+593:
+  charge_c_rate: 1
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Negative particle radius [m]: 2.74e-05
+594:
+  charge_c_rate: 1
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Positive particle radius [m]: 3.25e-06
+595:
+  charge_c_rate: 1
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Positive particle radius [m]: 1.3e-05
+596:
+  charge_c_rate: 1
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Negative electrode thickness [m]: 5.5499999999999994e-05
+597:
+  charge_c_rate: 1
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Positive electrode thickness [m]: 4.0499999999999995e-05
+598:
+  charge_c_rate: 1
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Positive electrode thickness [m]: 8.099999999999999e-05
+599:
+  charge_c_rate: 1
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Negative electrode porosity: 0.279
+600:
+  charge_c_rate: 1
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Negative electrode porosity: 0.379
+601:
+  charge_c_rate: 1
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Positive electrode porosity: 0.246
+602:
+  charge_c_rate: 1
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Positive electrode porosity: 0.346
+603:
+  charge_c_rate: 1
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Negative electrode Bruggeman coefficient (electrolyte): 1.5
+604:
+  charge_c_rate: 1
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Negative electrode Bruggeman coefficient (electrolyte): 2.0
+605:
+  charge_c_rate: 1
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Negative electrode Bruggeman coefficient (electrolyte): 2.5
+606:
+  charge_c_rate: 1
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Positive electrode Bruggeman coefficient (electrolyte): 1.3
+607:
+  charge_c_rate: 1
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Positive electrode Bruggeman coefficient (electrolyte): 1.8
+608:
+  charge_c_rate: 1
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Positive electrode Bruggeman coefficient (electrolyte): 2.3
+609:
+  charge_c_rate: 1
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Separator thickness [m]: 1.4e-05
+610:
+  charge_c_rate: 1
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Separator thickness [m]: 2.6000000000000002e-05
+611:
+  charge_c_rate: 1
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Negative particle radius [m]: 6.85e-06
+612:
+  charge_c_rate: 1
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Negative particle radius [m]: 2.74e-05
+613:
+  charge_c_rate: 1
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Positive particle radius [m]: 3.25e-06
+614:
+  charge_c_rate: 1
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Positive particle radius [m]: 1.3e-05
+615:
+  charge_c_rate: 1
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Negative electrode thickness [m]: 5.5499999999999994e-05
+616:
+  charge_c_rate: 1
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Negative electrode thickness [m]: 0.00011099999999999999
+617:
+  charge_c_rate: 1
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Positive electrode thickness [m]: 4.0499999999999995e-05
+618:
+  charge_c_rate: 1
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Positive electrode thickness [m]: 8.099999999999999e-05
+619:
+  charge_c_rate: 1
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Negative electrode porosity: 0.279
+620:
+  charge_c_rate: 1
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Negative electrode porosity: 0.379
+621:
+  charge_c_rate: 1
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Positive electrode porosity: 0.246
+622:
+  charge_c_rate: 1
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Positive electrode porosity: 0.346
+623:
+  charge_c_rate: 1
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Negative electrode Bruggeman coefficient (electrolyte): 1.5
+624:
+  charge_c_rate: 1
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Negative electrode Bruggeman coefficient (electrolyte): 2.0
+625:
+  charge_c_rate: 1
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Negative electrode Bruggeman coefficient (electrolyte): 2.5
+626:
+  charge_c_rate: 1
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Positive electrode Bruggeman coefficient (electrolyte): 1.3
+627:
+  charge_c_rate: 1
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Positive electrode Bruggeman coefficient (electrolyte): 1.8
+628:
+  charge_c_rate: 1
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Positive electrode Bruggeman coefficient (electrolyte): 2.3
+629:
+  charge_c_rate: 1
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Separator thickness [m]: 1.4e-05
+630:
+  charge_c_rate: 1
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Separator thickness [m]: 2.6000000000000002e-05
+631:
+  charge_c_rate: 1
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Negative particle radius [m]: 6.85e-06
+632:
+  charge_c_rate: 1
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Negative particle radius [m]: 2.74e-05
+633:
+  charge_c_rate: 1
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Positive particle radius [m]: 3.25e-06
+634:
+  charge_c_rate: 1
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Positive particle radius [m]: 1.3e-05
+635:
+  charge_c_rate: 1
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Negative electrode thickness [m]: 5.5499999999999994e-05
+636:
+  charge_c_rate: 1
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Negative electrode thickness [m]: 0.00011099999999999999
+637:
+  charge_c_rate: 1
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Positive electrode thickness [m]: 4.0499999999999995e-05
+638:
+  charge_c_rate: 1
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Positive electrode thickness [m]: 8.099999999999999e-05
+639:
+  charge_c_rate: 1
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Negative electrode porosity: 0.279
+640:
+  charge_c_rate: 1
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Negative electrode porosity: 0.379
+641:
+  charge_c_rate: 1
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Positive electrode porosity: 0.246
+642:
+  charge_c_rate: 1
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Positive electrode porosity: 0.346
+643:
+  charge_c_rate: 1
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Negative electrode Bruggeman coefficient (electrolyte): 1.5
+644:
+  charge_c_rate: 1
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Negative electrode Bruggeman coefficient (electrolyte): 2.0
+645:
+  charge_c_rate: 1
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Negative electrode Bruggeman coefficient (electrolyte): 2.5
+646:
+  charge_c_rate: 1
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Positive electrode Bruggeman coefficient (electrolyte): 1.3
+647:
+  charge_c_rate: 1
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Positive electrode Bruggeman coefficient (electrolyte): 1.8
+648:
+  charge_c_rate: 1
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Positive electrode Bruggeman coefficient (electrolyte): 2.3
+649:
+  charge_c_rate: 1
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Separator thickness [m]: 1.4e-05
+650:
+  charge_c_rate: 1
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Separator thickness [m]: 2.6000000000000002e-05
+651:
+  charge_c_rate: 2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Negative particle radius [m]: 6.85e-06
+652:
+  charge_c_rate: 2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Negative particle radius [m]: 2.74e-05
+653:
+  charge_c_rate: 2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Positive particle radius [m]: 3.25e-06
+654:
+  charge_c_rate: 2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Positive particle radius [m]: 1.3e-05
+655:
+  charge_c_rate: 2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Negative electrode thickness [m]: 5.5499999999999994e-05
+656:
+  charge_c_rate: 2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Negative electrode thickness [m]: 0.00011099999999999999
+657:
+  charge_c_rate: 2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Positive electrode thickness [m]: 4.0499999999999995e-05
+658:
+  charge_c_rate: 2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Positive electrode thickness [m]: 8.099999999999999e-05
+659:
+  charge_c_rate: 2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Negative electrode porosity: 0.279
+660:
+  charge_c_rate: 2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Negative electrode porosity: 0.379
+661:
+  charge_c_rate: 2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Positive electrode porosity: 0.246
+662:
+  charge_c_rate: 2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Positive electrode porosity: 0.346
+663:
+  charge_c_rate: 2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Negative electrode Bruggeman coefficient (electrolyte): 1.5
+664:
+  charge_c_rate: 2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Negative electrode Bruggeman coefficient (electrolyte): 2.0
+665:
+  charge_c_rate: 2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Negative electrode Bruggeman coefficient (electrolyte): 2.5
+666:
+  charge_c_rate: 2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Positive electrode Bruggeman coefficient (electrolyte): 1.3
+667:
+  charge_c_rate: 2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Positive electrode Bruggeman coefficient (electrolyte): 1.8
+668:
+  charge_c_rate: 2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Positive electrode Bruggeman coefficient (electrolyte): 2.3
+669:
+  charge_c_rate: 2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Separator thickness [m]: 1.4e-05
+670:
+  charge_c_rate: 2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Separator thickness [m]: 2.6000000000000002e-05
+671:
+  charge_c_rate: 2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Negative particle radius [m]: 6.85e-06
+672:
+  charge_c_rate: 2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Negative particle radius [m]: 2.74e-05
+673:
+  charge_c_rate: 2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Positive particle radius [m]: 3.25e-06
+674:
+  charge_c_rate: 2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Positive particle radius [m]: 1.3e-05
+675:
+  charge_c_rate: 2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Negative electrode thickness [m]: 5.5499999999999994e-05
+676:
+  charge_c_rate: 2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Negative electrode thickness [m]: 0.00011099999999999999
+677:
+  charge_c_rate: 2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Positive electrode thickness [m]: 4.0499999999999995e-05
+678:
+  charge_c_rate: 2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Positive electrode thickness [m]: 8.099999999999999e-05
+679:
+  charge_c_rate: 2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Negative electrode porosity: 0.279
+680:
+  charge_c_rate: 2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Negative electrode porosity: 0.379
+681:
+  charge_c_rate: 2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Positive electrode porosity: 0.246
+682:
+  charge_c_rate: 2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Positive electrode porosity: 0.346
+683:
+  charge_c_rate: 2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Negative electrode Bruggeman coefficient (electrolyte): 1.5
+684:
+  charge_c_rate: 2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Negative electrode Bruggeman coefficient (electrolyte): 2.0
+685:
+  charge_c_rate: 2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Negative electrode Bruggeman coefficient (electrolyte): 2.5
+686:
+  charge_c_rate: 2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Positive electrode Bruggeman coefficient (electrolyte): 1.3
+687:
+  charge_c_rate: 2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Positive electrode Bruggeman coefficient (electrolyte): 1.8
+688:
+  charge_c_rate: 2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Positive electrode Bruggeman coefficient (electrolyte): 2.3
+689:
+  charge_c_rate: 2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Separator thickness [m]: 1.4e-05
+690:
+  charge_c_rate: 2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Separator thickness [m]: 2.6000000000000002e-05
+691:
+  charge_c_rate: 2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Negative particle radius [m]: 6.85e-06
+692:
+  charge_c_rate: 2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Negative particle radius [m]: 2.74e-05
+693:
+  charge_c_rate: 2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Positive particle radius [m]: 3.25e-06
+694:
+  charge_c_rate: 2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Positive particle radius [m]: 1.3e-05
+695:
+  charge_c_rate: 2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Negative electrode thickness [m]: 5.5499999999999994e-05
+696:
+  charge_c_rate: 2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Negative electrode thickness [m]: 0.00011099999999999999
+697:
+  charge_c_rate: 2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Positive electrode thickness [m]: 4.0499999999999995e-05
+698:
+  charge_c_rate: 2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Positive electrode thickness [m]: 8.099999999999999e-05
+699:
+  charge_c_rate: 2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Negative electrode porosity: 0.279
+700:
+  charge_c_rate: 2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Negative electrode porosity: 0.379
+701:
+  charge_c_rate: 2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Positive electrode porosity: 0.246
+702:
+  charge_c_rate: 2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Positive electrode porosity: 0.346
+703:
+  charge_c_rate: 2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Negative electrode Bruggeman coefficient (electrolyte): 1.5
+704:
+  charge_c_rate: 2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Negative electrode Bruggeman coefficient (electrolyte): 2.0
+705:
+  charge_c_rate: 2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Negative electrode Bruggeman coefficient (electrolyte): 2.5
+706:
+  charge_c_rate: 2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Positive electrode Bruggeman coefficient (electrolyte): 1.3
+707:
+  charge_c_rate: 2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Positive electrode Bruggeman coefficient (electrolyte): 1.8
+708:
+  charge_c_rate: 2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Positive electrode Bruggeman coefficient (electrolyte): 2.3
+709:
+  charge_c_rate: 2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Separator thickness [m]: 1.4e-05
+710:
+  charge_c_rate: 2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Ecker2015
+  parameter_change:
+    Separator thickness [m]: 2.6000000000000002e-05
+711:
+  charge_c_rate: 0.2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Negative particle radius [m]: 5.0e-06
+712:
+  charge_c_rate: 0.2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Negative particle radius [m]: 2.0e-05
+713:
+  charge_c_rate: 0.2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Positive particle radius [m]: 5.0e-06
+714:
+  charge_c_rate: 0.2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Positive particle radius [m]: 2.0e-05
+715:
+  charge_c_rate: 0.2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Negative electrode thickness [m]: 7.500000000000001e-05
+716:
+  charge_c_rate: 0.2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Negative electrode thickness [m]: 0.00015000000000000001
+717:
+  charge_c_rate: 0.2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Positive electrode thickness [m]: 7.500000000000001e-05
+718:
+  charge_c_rate: 0.2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Positive electrode thickness [m]: 0.00015000000000000001
+719:
+  charge_c_rate: 0.2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Negative electrode porosity: 0.25
+720:
+  charge_c_rate: 0.2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Negative electrode porosity: 0.35
+721:
+  charge_c_rate: 0.2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Positive electrode porosity: 0.25
+722:
+  charge_c_rate: 0.2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Positive electrode porosity: 0.35
+723:
+  charge_c_rate: 0.2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Negative electrode Bruggeman coefficient (electrolyte): 1.5
+724:
+  charge_c_rate: 0.2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Negative electrode Bruggeman coefficient (electrolyte): 2.0
+725:
+  charge_c_rate: 0.2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Negative electrode Bruggeman coefficient (electrolyte): 2.5
+726:
+  charge_c_rate: 0.2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Positive electrode Bruggeman coefficient (electrolyte): 1.3
+727:
+  charge_c_rate: 0.2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Positive electrode Bruggeman coefficient (electrolyte): 1.8
+728:
+  charge_c_rate: 0.2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Positive electrode Bruggeman coefficient (electrolyte): 2.3
+729:
+  charge_c_rate: 0.2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Separator thickness [m]: 1.75e-05
+730:
+  charge_c_rate: 0.2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Separator thickness [m]: 3.2500000000000004e-05
+731:
+  charge_c_rate: 0.2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Negative particle radius [m]: 5.0e-06
+732:
+  charge_c_rate: 0.2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Negative particle radius [m]: 2.0e-05
+733:
+  charge_c_rate: 0.2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Positive particle radius [m]: 5.0e-06
+734:
+  charge_c_rate: 0.2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Positive particle radius [m]: 2.0e-05
+735:
+  charge_c_rate: 0.2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Negative electrode thickness [m]: 7.500000000000001e-05
+736:
+  charge_c_rate: 0.2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Negative electrode thickness [m]: 0.00015000000000000001
+737:
+  charge_c_rate: 0.2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Positive electrode thickness [m]: 7.500000000000001e-05
+738:
+  charge_c_rate: 0.2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Positive electrode thickness [m]: 0.00015000000000000001
+739:
+  charge_c_rate: 0.2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Negative electrode porosity: 0.25
+740:
+  charge_c_rate: 0.2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Negative electrode porosity: 0.35
+741:
+  charge_c_rate: 0.2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Positive electrode porosity: 0.25
+742:
+  charge_c_rate: 0.2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Positive electrode porosity: 0.35
+743:
+  charge_c_rate: 0.2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Negative electrode Bruggeman coefficient (electrolyte): 1.5
+744:
+  charge_c_rate: 0.2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Negative electrode Bruggeman coefficient (electrolyte): 2.0
+745:
+  charge_c_rate: 0.2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Negative electrode Bruggeman coefficient (electrolyte): 2.5
+746:
+  charge_c_rate: 0.2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Positive electrode Bruggeman coefficient (electrolyte): 1.3
+747:
+  charge_c_rate: 0.2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Positive electrode Bruggeman coefficient (electrolyte): 1.8
+748:
+  charge_c_rate: 0.2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Positive electrode Bruggeman coefficient (electrolyte): 2.3
+749:
+  charge_c_rate: 0.2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Separator thickness [m]: 1.75e-05
+750:
+  charge_c_rate: 0.2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Separator thickness [m]: 3.2500000000000004e-05
+751:
+  charge_c_rate: 0.2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Negative particle radius [m]: 5.0e-06
+752:
+  charge_c_rate: 0.2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Negative particle radius [m]: 2.0e-05
+753:
+  charge_c_rate: 0.2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Positive particle radius [m]: 5.0e-06
+754:
+  charge_c_rate: 0.2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Positive particle radius [m]: 2.0e-05
+755:
+  charge_c_rate: 0.2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Negative electrode thickness [m]: 7.500000000000001e-05
+756:
+  charge_c_rate: 0.2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Negative electrode thickness [m]: 0.00015000000000000001
+757:
+  charge_c_rate: 0.2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Positive electrode thickness [m]: 7.500000000000001e-05
+758:
+  charge_c_rate: 0.2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Positive electrode thickness [m]: 0.00015000000000000001
+759:
+  charge_c_rate: 0.2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Negative electrode porosity: 0.25
+760:
+  charge_c_rate: 0.2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Negative electrode porosity: 0.35
+761:
+  charge_c_rate: 0.2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Positive electrode porosity: 0.25
+762:
+  charge_c_rate: 0.2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Positive electrode porosity: 0.35
+763:
+  charge_c_rate: 0.2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Negative electrode Bruggeman coefficient (electrolyte): 1.5
+764:
+  charge_c_rate: 0.2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Negative electrode Bruggeman coefficient (electrolyte): 2.0
+765:
+  charge_c_rate: 0.2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Negative electrode Bruggeman coefficient (electrolyte): 2.5
+766:
+  charge_c_rate: 0.2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Positive electrode Bruggeman coefficient (electrolyte): 1.3
+767:
+  charge_c_rate: 0.2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Positive electrode Bruggeman coefficient (electrolyte): 1.8
+768:
+  charge_c_rate: 0.2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Positive electrode Bruggeman coefficient (electrolyte): 2.3
+769:
+  charge_c_rate: 0.2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Separator thickness [m]: 1.75e-05
+770:
+  charge_c_rate: 0.2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Separator thickness [m]: 3.2500000000000004e-05
+771:
+  charge_c_rate: 1
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Negative particle radius [m]: 5.0e-06
+772:
+  charge_c_rate: 1
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Negative particle radius [m]: 2.0e-05
+773:
+  charge_c_rate: 1
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Positive particle radius [m]: 5.0e-06
+774:
+  charge_c_rate: 1
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Positive particle radius [m]: 2.0e-05
+775:
+  charge_c_rate: 1
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Negative electrode thickness [m]: 7.500000000000001e-05
+776:
+  charge_c_rate: 1
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Negative electrode thickness [m]: 0.00015000000000000001
+777:
+  charge_c_rate: 1
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Positive electrode thickness [m]: 7.500000000000001e-05
+778:
+  charge_c_rate: 1
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Positive electrode thickness [m]: 0.00015000000000000001
+779:
+  charge_c_rate: 1
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Negative electrode porosity: 0.25
+780:
+  charge_c_rate: 1
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Negative electrode porosity: 0.35
+781:
+  charge_c_rate: 1
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Positive electrode porosity: 0.25
+782:
+  charge_c_rate: 1
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Positive electrode porosity: 0.35
+783:
+  charge_c_rate: 1
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Negative electrode Bruggeman coefficient (electrolyte): 1.5
+784:
+  charge_c_rate: 1
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Negative electrode Bruggeman coefficient (electrolyte): 2.0
+785:
+  charge_c_rate: 1
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Negative electrode Bruggeman coefficient (electrolyte): 2.5
+786:
+  charge_c_rate: 1
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Positive electrode Bruggeman coefficient (electrolyte): 1.3
+787:
+  charge_c_rate: 1
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Positive electrode Bruggeman coefficient (electrolyte): 1.8
+788:
+  charge_c_rate: 1
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Positive electrode Bruggeman coefficient (electrolyte): 2.3
+789:
+  charge_c_rate: 1
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Separator thickness [m]: 1.75e-05
+790:
+  charge_c_rate: 1
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Separator thickness [m]: 3.2500000000000004e-05
+791:
+  charge_c_rate: 1
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Negative particle radius [m]: 5.0e-06
+792:
+  charge_c_rate: 1
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Negative particle radius [m]: 2.0e-05
+793:
+  charge_c_rate: 1
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Positive particle radius [m]: 5.0e-06
+794:
+  charge_c_rate: 1
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Positive particle radius [m]: 2.0e-05
+795:
+  charge_c_rate: 1
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Negative electrode thickness [m]: 7.500000000000001e-05
+796:
+  charge_c_rate: 1
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Negative electrode thickness [m]: 0.00015000000000000001
+797:
+  charge_c_rate: 1
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Positive electrode thickness [m]: 7.500000000000001e-05
+798:
+  charge_c_rate: 1
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Positive electrode thickness [m]: 0.00015000000000000001
+799:
+  charge_c_rate: 1
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Negative electrode porosity: 0.25
+800:
+  charge_c_rate: 1
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Negative electrode porosity: 0.35
+801:
+  charge_c_rate: 1
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Positive electrode porosity: 0.25
+802:
+  charge_c_rate: 1
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Positive electrode porosity: 0.35
+803:
+  charge_c_rate: 1
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Negative electrode Bruggeman coefficient (electrolyte): 1.5
+804:
+  charge_c_rate: 1
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Negative electrode Bruggeman coefficient (electrolyte): 2.0
+805:
+  charge_c_rate: 1
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Negative electrode Bruggeman coefficient (electrolyte): 2.5
+806:
+  charge_c_rate: 1
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Positive electrode Bruggeman coefficient (electrolyte): 1.3
+807:
+  charge_c_rate: 1
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Positive electrode Bruggeman coefficient (electrolyte): 1.8
+808:
+  charge_c_rate: 1
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Positive electrode Bruggeman coefficient (electrolyte): 2.3
+809:
+  charge_c_rate: 1
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Separator thickness [m]: 1.75e-05
+810:
+  charge_c_rate: 1
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Separator thickness [m]: 3.2500000000000004e-05
+811:
+  charge_c_rate: 1
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Negative particle radius [m]: 5.0e-06
+812:
+  charge_c_rate: 1
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Negative particle radius [m]: 2.0e-05
+813:
+  charge_c_rate: 1
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Positive particle radius [m]: 5.0e-06
+814:
+  charge_c_rate: 1
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Positive particle radius [m]: 2.0e-05
+815:
+  charge_c_rate: 1
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Negative electrode thickness [m]: 7.500000000000001e-05
+816:
+  charge_c_rate: 1
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Negative electrode thickness [m]: 0.00015000000000000001
+817:
+  charge_c_rate: 1
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Positive electrode thickness [m]: 7.500000000000001e-05
+818:
+  charge_c_rate: 1
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Positive electrode thickness [m]: 0.00015000000000000001
+819:
+  charge_c_rate: 1
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Negative electrode porosity: 0.25
+820:
+  charge_c_rate: 1
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Negative electrode porosity: 0.35
+821:
+  charge_c_rate: 1
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Positive electrode porosity: 0.25
+822:
+  charge_c_rate: 1
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Positive electrode porosity: 0.35
+823:
+  charge_c_rate: 1
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Negative electrode Bruggeman coefficient (electrolyte): 1.5
+824:
+  charge_c_rate: 1
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Negative electrode Bruggeman coefficient (electrolyte): 2.0
+825:
+  charge_c_rate: 1
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Negative electrode Bruggeman coefficient (electrolyte): 2.5
+826:
+  charge_c_rate: 1
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Positive electrode Bruggeman coefficient (electrolyte): 1.3
+827:
+  charge_c_rate: 1
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Positive electrode Bruggeman coefficient (electrolyte): 1.8
+828:
+  charge_c_rate: 1
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Positive electrode Bruggeman coefficient (electrolyte): 2.3
+829:
+  charge_c_rate: 1
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Separator thickness [m]: 1.75e-05
+830:
+  charge_c_rate: 1
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Separator thickness [m]: 3.2500000000000004e-05
+831:
+  charge_c_rate: 2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Negative particle radius [m]: 5.0e-06
+832:
+  charge_c_rate: 2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Negative particle radius [m]: 2.0e-05
+833:
+  charge_c_rate: 2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Positive particle radius [m]: 5.0e-06
+834:
+  charge_c_rate: 2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Positive particle radius [m]: 2.0e-05
+835:
+  charge_c_rate: 2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Negative electrode thickness [m]: 7.500000000000001e-05
+836:
+  charge_c_rate: 2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Negative electrode thickness [m]: 0.00015000000000000001
+837:
+  charge_c_rate: 2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Positive electrode thickness [m]: 7.500000000000001e-05
+838:
+  charge_c_rate: 2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Positive electrode thickness [m]: 0.00015000000000000001
+839:
+  charge_c_rate: 2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Negative electrode porosity: 0.25
+840:
+  charge_c_rate: 2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Negative electrode porosity: 0.35
+841:
+  charge_c_rate: 2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Positive electrode porosity: 0.25
+842:
+  charge_c_rate: 2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Positive electrode porosity: 0.35
+843:
+  charge_c_rate: 2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Negative electrode Bruggeman coefficient (electrolyte): 1.5
+844:
+  charge_c_rate: 2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Negative electrode Bruggeman coefficient (electrolyte): 2.0
+845:
+  charge_c_rate: 2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Negative electrode Bruggeman coefficient (electrolyte): 2.5
+846:
+  charge_c_rate: 2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Positive electrode Bruggeman coefficient (electrolyte): 1.3
+847:
+  charge_c_rate: 2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Positive electrode Bruggeman coefficient (electrolyte): 1.8
+848:
+  charge_c_rate: 2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Positive electrode Bruggeman coefficient (electrolyte): 2.3
+849:
+  charge_c_rate: 2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Separator thickness [m]: 1.75e-05
+850:
+  charge_c_rate: 2
+  discharge_c_rate: 0.2
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Separator thickness [m]: 3.2500000000000004e-05
+851:
+  charge_c_rate: 2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Negative particle radius [m]: 5.0e-06
+852:
+  charge_c_rate: 2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Negative particle radius [m]: 2.0e-05
+853:
+  charge_c_rate: 2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Positive particle radius [m]: 5.0e-06
+854:
+  charge_c_rate: 2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Positive particle radius [m]: 2.0e-05
+855:
+  charge_c_rate: 2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Negative electrode thickness [m]: 7.500000000000001e-05
+856:
+  charge_c_rate: 2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Negative electrode thickness [m]: 0.00015000000000000001
+857:
+  charge_c_rate: 2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Positive electrode thickness [m]: 7.500000000000001e-05
+858:
+  charge_c_rate: 2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Positive electrode thickness [m]: 0.00015000000000000001
+859:
+  charge_c_rate: 2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Negative electrode porosity: 0.25
+860:
+  charge_c_rate: 2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Negative electrode porosity: 0.35
+861:
+  charge_c_rate: 2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Positive electrode porosity: 0.25
+862:
+  charge_c_rate: 2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Positive electrode porosity: 0.35
+863:
+  charge_c_rate: 2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Negative electrode Bruggeman coefficient (electrolyte): 1.5
+864:
+  charge_c_rate: 2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Negative electrode Bruggeman coefficient (electrolyte): 2.0
+865:
+  charge_c_rate: 2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Negative electrode Bruggeman coefficient (electrolyte): 2.5
+866:
+  charge_c_rate: 2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Positive electrode Bruggeman coefficient (electrolyte): 1.3
+867:
+  charge_c_rate: 2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Positive electrode Bruggeman coefficient (electrolyte): 1.8
+868:
+  charge_c_rate: 2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Positive electrode Bruggeman coefficient (electrolyte): 2.3
+869:
+  charge_c_rate: 2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Separator thickness [m]: 1.75e-05
+870:
+  charge_c_rate: 2
+  discharge_c_rate: 1
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Separator thickness [m]: 3.2500000000000004e-05
+871:
+  charge_c_rate: 2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Negative particle radius [m]: 5.0e-06
+872:
+  charge_c_rate: 2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Negative particle radius [m]: 2.0e-05
+873:
+  charge_c_rate: 2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Positive particle radius [m]: 5.0e-06
+874:
+  charge_c_rate: 2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Positive particle radius [m]: 2.0e-05
+875:
+  charge_c_rate: 2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Negative electrode thickness [m]: 7.500000000000001e-05
+876:
+  charge_c_rate: 2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Negative electrode thickness [m]: 0.00015000000000000001
+877:
+  charge_c_rate: 2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Positive electrode thickness [m]: 7.500000000000001e-05
+878:
+  charge_c_rate: 2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Positive electrode thickness [m]: 0.00015000000000000001
+879:
+  charge_c_rate: 2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Negative electrode porosity: 0.25
+880:
+  charge_c_rate: 2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Negative electrode porosity: 0.35
+881:
+  charge_c_rate: 2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Positive electrode porosity: 0.25
+882:
+  charge_c_rate: 2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Positive electrode porosity: 0.35
+883:
+  charge_c_rate: 2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Negative electrode Bruggeman coefficient (electrolyte): 1.5
+884:
+  charge_c_rate: 2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Negative electrode Bruggeman coefficient (electrolyte): 2.0
+885:
+  charge_c_rate: 2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Negative electrode Bruggeman coefficient (electrolyte): 2.5
+886:
+  charge_c_rate: 2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Positive electrode Bruggeman coefficient (electrolyte): 1.3
+887:
+  charge_c_rate: 2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Positive electrode Bruggeman coefficient (electrolyte): 1.8
+888:
+  charge_c_rate: 2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Positive electrode Bruggeman coefficient (electrolyte): 2.3
+889:
+  charge_c_rate: 2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Separator thickness [m]: 1.75e-05
+890:
+  charge_c_rate: 2
+  discharge_c_rate: 2
+  model_name: DFN
+  param_name: Marquis2019
+  parameter_change:
+    Separator thickness [m]: 3.2500000000000004e-05

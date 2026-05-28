@@ -1,0 +1,7 @@
+RESULTS_DIR: "./exp_results/single/{id}/{time_stamp}"
+# RESULTS_DIR: "./exp_results/multi/{id}/{time_stamp}"
+
+SEARCH_ROUNDS: 50
+EXP_CYCLES: 2
+INDEX_TO_SEARCH: [1]
+MULTI_VOTE_NUMBER: 1

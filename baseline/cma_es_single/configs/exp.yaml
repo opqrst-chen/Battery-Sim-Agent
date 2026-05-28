@@ -1,0 +1,12 @@
+EXPERIMENT_TYPE: sim_vs_sim
+EXP_CYCLES: 2
+RANDOM_SEED: 1234
+REAL_VS_SIM:
+  real_world_cell_dataset: MATR
+  real_world_data_path: ../data/2017-05-12_6C-50per_3_6C_CH36.csv
+RESULTS_DIR: ./results/{time_stamp}
+SIM_VS_SIM:
+  baseline_sim_config: ../../generate_simulated_data/output/simulated_data_setting_single_new_filtered.yaml
+  baseline_sim_id: 97
+  parameter_change:
+    Negative particle radius [m]: 1.172e-05

@@ -1,0 +1,28 @@
+# OS / editor
+.DS_Store
+.history
+.VSCodeCounter
+
+# Python
+__pycache__
+*.pyc
+*.pyo
+.ipynb_checkpoints
+
+# Local secrets / configs (provide via *.example)
+battery_agent/configs/llm.yaml
+
+# Run-time outputs
+real_world_data
+results
+exp_results
+logs
+runs
+test
+*.png
+!assets/*.png
+
+# Local virtualenvs
+.venv
+venv
+env
