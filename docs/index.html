@@ -3,8 +3,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Battery-Sim-Agent | LLM-Agent for Inverse Battery Parameter Estimation</title>
-    <meta name="description" content="Battery-Sim-Agent: Leveraging LLM-Agent for Inverse Battery Parameter Estimation. KDD 2026.">
+    <title>Battery-Sim-Agent | LLM-Agent for Inverse Battery Parameter Estimation (KDD 2026)</title>
+    <meta name="description" content="Battery-Sim-Agent (KDD 2026): a simulator-in-the-loop LLM agent that reframes inverse battery parameter estimation as a hypothesis-driven reasoning task.">
+    <meta property="og:title" content="Battery-Sim-Agent: Leveraging LLM-Agent for Inverse Battery Parameter Estimation">
+    <meta property="og:description" content="KDD 2026 paper. A reasoning-based LLM agent that calibrates physics-based battery digital twins, outperforming Bayesian Optimization on 200+ benchmark tasks.">
+    <meta property="og:type" content="article">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Google+Sans:wght@400;500;700&family=Google+Sans+Text:wght@400;500;700&family=Roboto+Mono:wght@400;500&display=swap" rel="stylesheet">
@@ -21,6 +24,7 @@
             <a href="#abstract">Abstract</a>
             <a href="#method">Method</a>
             <a href="#results">Results</a>
+            <a href="#attribution">Ablations</a>
             <a href="#citation">Citation</a>
         </div>
     </div>
@@ -36,13 +40,14 @@
     <div class="hero-grid"></div>
 
     <div class="container hero-content">
-        <!-- <div class="venue-badge">
-            <i class="fas fa-award"></i> KDD 2026 &mdash; Jeju, Korea
-        </div> -->
         <h1 class="hero-title">
             <span class="title-accent">Battery-Sim-Agent</span>
             <span class="title-sub">Leveraging LLM-Agent for Inverse Battery Parameter Estimation</span>
         </h1>
+
+        <div class="venue-badge">
+            <i class="fas fa-award"></i> KDD 2026
+        </div>
 
         <div class="authors">
             <div class="author-list">
@@ -63,8 +68,8 @@
         </div>
 
         <div class="hero-buttons">
-            <a href="#" class="btn btn-primary"><i class="fas fa-file-pdf"></i> Paper</a>
-            <a href="#" class="btn btn-secondary"><i class="fab fa-github"></i> Code</a>
+            <a href="https://arxiv.org/abs/2605.29560" class="btn btn-primary" target="_blank" rel="noopener"><i class="fas fa-file-pdf"></i> Paper</a>
+            <a href="https://github.com/opqrst-chen/Battery-Sim-Agent" class="btn btn-secondary" target="_blank" rel="noopener"><i class="fab fa-github"></i> Code</a>
             <a href="#citation" class="btn btn-outline"><i class="fas fa-quote-right"></i> Cite</a>
         </div>
     </div>
@@ -76,23 +81,23 @@
         <div class="highlight-grid">
             <div class="highlight-card fade-up">
                 <div class="highlight-icon"><i class="fas fa-brain"></i></div>
-                <div class="highlight-number">67–95%</div>
-                <div class="highlight-text">Error reduction vs. Bayesian Optimization across diverse battery chemistries</div>
+                <div class="highlight-number">67&ndash;95%</div>
+                <div class="highlight-text">MAPE reduction over Bayesian Optimization in regular-mode multi-parameter calibration</div>
             </div>
             <div class="highlight-card fade-up">
                 <div class="highlight-icon"><i class="fas fa-flask"></i></div>
                 <div class="highlight-number">5</div>
-                <div class="highlight-text">Battery chemistries tested: NMC811, LFP, NMC111, LCO, and more</div>
+                <div class="highlight-text">Battery chemistries: NMC811, LFP, NMC111, LCO, and Si-graphite blends</div>
             </div>
             <div class="highlight-card fade-up">
                 <div class="highlight-icon"><i class="fas fa-tasks"></i></div>
-                <div class="highlight-number">200+</div>
-                <div class="highlight-text">Benchmark tasks spanning diverse operating conditions and difficulty levels</div>
+                <div class="highlight-number">200</div>
+                <div class="highlight-text">Benchmark tasks across 5 chemistries &times; 2 difficulty modes &times; 3 C-rates</div>
             </div>
             <div class="highlight-card fade-up">
                 <div class="highlight-icon"><i class="fas fa-check-circle"></i></div>
                 <div class="highlight-number">Real-World</div>
-                <div class="highlight-text">Validated on CALCE real battery datasets with noisy experimental data</div>
+                <div class="highlight-text">Validated on 7 CALCE cells plus long-horizon SEI-degradation fitting</div>
             </div>
         </div>
     </div>
@@ -324,7 +329,7 @@
                         </tr>
                         <tr>
                             <td class="method-bo">BO</td>
-                            <td>159.41</td><td>84.55</td><td>137.31</td><td>17.05</td><td>8.42</td>
+                            <td>159.41</td><td>84.55</td><td>137.31</td><td><strong>17.05</strong></td><td><strong>8.42</strong></td>
                         </tr>
                         <tr>
                             <td class="method-oss">Agent-OSS</td>
@@ -337,6 +342,9 @@
                     </tbody>
                 </table>
             </div>
+            <p class="figure-caption" style="margin-top: 16px;">
+                <strong>Note.</strong> Bold marks the best method per chemistry. In extreme mode on low-headroom chemistries (Prada2013, Marquis2019) the literature defaults are already close to the perturbed target, and BO remains competitive. The agent's advantage is most pronounced in regular-mode multi-parameter calibration and in the harder long-horizon and real-world settings below.
+            </p>
         </div>
 
         <!-- C-Rate Analysis -->
@@ -363,7 +371,7 @@
 
         <!-- Convergence -->
         <div class="convergence-section fade-up">
-            <h3>Advanced Applications & Convergence</h3>
+            <h3>Advanced Applications &amp; Convergence</h3>
             <div class="convergence-figures">
                 <div class="conv-fig">
                     <img src="static/images/degration_exp_3_metrics.png" alt="Degradation Fitting Convergence" loading="lazy">
@@ -375,8 +383,131 @@
                 </div>
             </div>
             <p class="figure-caption-main">
-                <strong>Figure 4.</strong> Convergence analysis showing systematic error reduction over iterations for degradation fitting (left) and real-world battery data (right). Traditional methods like BO fail to converge in these complex scenarios.
+                <strong>Figure 4.</strong> Convergence on long-horizon degradation fitting (left) and real-world CALCE cells (right). Bayesian Optimization fails to converge on these settings and is excluded.
             </p>
+        </div>
+
+        <!-- Long-horizon table -->
+        <div class="results-table-wrapper fade-up">
+            <h3>Long-Horizon Degradation &amp; Real-World Cells (MAPE &darr;)</h3>
+            <div class="table-scroll">
+                <table class="results-table">
+                    <thead>
+                        <tr>
+                            <th rowspan="2">Method</th>
+                            <th colspan="4">Degradation</th>
+                            <th colspan="4">Real Battery (CALCE)</th>
+                        </tr>
+                        <tr>
+                            <th>Total</th><th>Q</th><th>I</th><th>V</th>
+                            <th>Total</th><th>Q</th><th>I</th><th>V</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr class="best-row">
+                            <td class="method-oss">Agent-OSS</td>
+                            <td><strong>1.37</strong></td><td><strong>0.51</strong></td><td><strong>0.66</strong></td><td><strong>0.19</strong></td>
+                            <td>8.75</td><td>0.90</td><td>6.58</td><td>1.27</td>
+                        </tr>
+                        <tr class="best-row">
+                            <td class="method-ours">Agent-O3 (Ours)</td>
+                            <td>1.77</td><td>0.67</td><td>0.85</td><td>0.25</td>
+                            <td><strong>3.46</strong></td><td><strong>0.60</strong></td><td><strong>1.81</strong></td><td><strong>1.04</strong></td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+            <p class="figure-caption" style="margin-top: 16px;">
+                BO fails to converge on these tasks and is excluded. On smooth long-horizon degradation, the lighter OSS variant is competitive; on noisy CALCE data the full reasoning agent (O3) is clearly best.
+            </p>
+        </div>
+    </div>
+</section>
+
+<!-- Attribution -->
+<section class="section" id="attribution">
+    <div class="container">
+        <h2 class="section-title fade-up">Attribution: Scaffold vs. Backbone</h2>
+        <div class="results-intro fade-up">
+            <p>
+                A natural question is whether the gain comes from the reasoning scaffold itself or from the choice of a strong proprietary backbone. We disentangle the two on a fixed 8-case Chen2020 subset (15 rounds per case).
+            </p>
+        </div>
+
+        <div class="attribution-grid fade-up">
+            <div class="attribution-card">
+                <h3><i class="fas fa-layer-group"></i> Same-family scaling (full framework)</h3>
+                <table class="results-table">
+                    <thead>
+                        <tr><th>Backend</th><th>Avg. final MAPE</th></tr>
+                    </thead>
+                    <tbody>
+                        <tr><td>Qwen2.5-7B</td><td>30.08%</td></tr>
+                        <tr><td>Qwen2.5-14B</td><td>4.02%</td></tr>
+                        <tr class="best-row"><td>Qwen2.5-32B</td><td><strong>3.33%</strong></td></tr>
+                    </tbody>
+                </table>
+                <p class="figure-caption" style="margin-top: 12px;">
+                    Capability matters: 7B is too weak; 14B and 32B both reach low final error.
+                </p>
+            </div>
+
+            <div class="attribution-card">
+                <h3><i class="fas fa-cogs"></i> Fixed-backbone ablation (Qwen2.5-32B)</h3>
+                <table class="results-table">
+                    <thead>
+                        <tr><th>Configuration</th><th>Final MAPE</th></tr>
+                    </thead>
+                    <tbody>
+                        <tr class="best-row"><td>Complete scaffold</td><td><strong>3.33%</strong></td></tr>
+                        <tr><td>&minus; domain knowledge</td><td>5.44%</td></tr>
+                        <tr><td>&minus; structured feedback (scalar only)</td><td>6.64%</td></tr>
+                        <tr><td>&minus; per-round memory</td><td>32.94%</td></tr>
+                    </tbody>
+                </table>
+                <p class="figure-caption" style="margin-top: 12px;">
+                    Iterative memory is the dominant component &mdash; removing it causes a 9.9&times; degradation.
+                </p>
+            </div>
+        </div>
+
+        <div class="results-intro fade-up" style="margin-top: 32px;">
+            <p>
+                <strong>Is richer feedback alone sufficient?</strong> No. Feeding the same multi-modal residuals directly to a numerical optimizer does <em>not</em> recover the agent's gain: weighted multi-objective DE reaches 3.68% (vs. scalar DE's 1.00% on the same case) and qNEHVI fails catastrophically. The improvement emerges from <em>combining</em> iterative memory, structured diagnostic feedback, lightweight domain priors, and a sufficiently capable backbone.
+            </p>
+        </div>
+
+        <div class="results-intro fade-up" style="margin-top: 24px;">
+            <h3 style="margin-bottom: 12px;"><i class="fas fa-stopwatch"></i> Computational Cost</h3>
+            <p>
+                Under matched 20-step budgets on Chen2020, our agent makes 20 simulator evaluations and 20 LLM calls with end-to-end wall-clock <strong>322s</strong>, vs. <strong>541s</strong> for the matched BO run. Per-round wall-clock stays nearly flat (13.85s &rarr; 13.82s between the first and last five rounds), whereas BO's per-trial time grows from 44s to 477s due to accumulated GP-solver overhead.
+            </p>
+        </div>
+    </div>
+</section>
+
+<!-- Citation -->
+<section class="section section-alt" id="citation">
+    <div class="container">
+        <h2 class="section-title fade-up">Citation</h2>
+        <div class="citation-box fade-up">
+            <div class="citation-header">
+                <span>BibTeX</span>
+                <button class="copy-btn" onclick="copyBibtex()"><i class="fas fa-copy"></i> Copy</button>
+            </div>
+            <pre class="bibtex-code"><code id="bibtex">@inproceedings{chen2026batterysimagent,
+  author    = {Chen, Jiawei and Gui, Xiaofan and Fang, Shikai and Tao, Shengyu and Zheng, Shun and Liu, Weiqing and Bian, Jiang},
+  title     = {Battery-Sim-Agent: Leveraging LLM-Agent for Inverse Battery Parameter Estimation},
+  year      = {2026},
+  isbn      = {979-8-4007-2259-2/2026/08},
+  publisher = {Association for Computing Machinery},
+  address   = {New York, NY, USA},
+  url       = {https://doi.org/10.1145/3770855.3818856},
+  doi       = {10.1145/3770855.3818856},
+  booktitle = {Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining V.2 (KDD '26)},
+  location  = {Jeju Island, Republic of Korea},
+  series    = {KDD '26}
+}</code></pre>
         </div>
     </div>
 </section>
@@ -384,11 +515,11 @@
 <!-- Footer -->
 <footer class="footer">
     <div class="container">
-        <p>Battery-Sim-Agent &copy; 2026.</p>
+        <p>Battery-Sim-Agent &copy; 2026. KDD 2026.</p>
         <p class="footer-links">
-            <a href="#"><i class="fas fa-file-pdf"></i> Paper</a>
-            <a href="#"><i class="fab fa-github"></i> Code</a>
-            <a href="#">Contact</a>
+            <a href="https://arxiv.org/abs/2605.29560" target="_blank" rel="noopener"><i class="fas fa-file-pdf"></i> Paper</a>
+            <a href="https://github.com/opqrst-chen/Battery-Sim-Agent" target="_blank" rel="noopener"><i class="fab fa-github"></i> Code</a>
+            <a href="#citation">Cite</a>
         </p>
     </div>
 </footer>

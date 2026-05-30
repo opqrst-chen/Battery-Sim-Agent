@@ -324,24 +324,31 @@ img { max-width: 100%; height: auto; }
 .venue-badge {
     display: inline-flex;
     align-items: center;
-    gap: 8px;
-    background: rgba(66, 133, 244, 0.12);
-    color: rgba(255, 255, 255, 0.9);
-    border: 1px solid rgba(66, 133, 244, 0.25);
-    padding: 8px 22px;
+    gap: 10px;
+    background: rgba(66, 133, 244, 0.14);
+    color: rgba(255, 255, 255, 0.95);
+    border: 1px solid rgba(66, 133, 244, 0.32);
+    padding: 10px 28px;
     border-radius: var(--dm-radius-pill);
     font-family: 'Google Sans', sans-serif;
-    font-size: 0.875rem;
+    font-size: 1rem;
     font-weight: 500;
+    letter-spacing: 0.01em;
+    margin-top: -16px;
     margin-bottom: 36px;
     backdrop-filter: blur(12px);
     -webkit-backdrop-filter: blur(12px);
 }
 
+.venue-badge i {
+    color: var(--dm-teal);
+    font-size: 0.95rem;
+}
+
 /* Title */
 .hero-title {
     color: white;
-    margin-bottom: 44px;
+    margin-bottom: 24px;
 }
 
 .title-accent {
@@ -413,6 +420,24 @@ img { max-width: 100%; height: auto; }
 .affiliations sup {
     color: rgba(0, 188, 212, 0.5);
     font-weight: 500;
+}
+
+.author-notes {
+    margin-top: 14px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 6px 28px;
+    color: rgba(255, 255, 255, 0.4);
+    font-size: 0.75rem;
+    font-family: 'Google Sans Text', sans-serif;
+    line-height: 1.6;
+}
+
+.author-notes sup {
+    color: rgba(0, 188, 212, 0.55);
+    font-weight: 500;
+    margin-right: 2px;
 }
 
 /* Hero Buttons */
@@ -801,6 +826,68 @@ img { max-width: 100%; height: auto; }
     gap: 20px;
 }
 
+.attribution-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 24px;
+    margin-top: 24px;
+}
+
+.attribution-card {
+    padding: 28px;
+    background: var(--dm-bg);
+    border-radius: var(--dm-radius-lg);
+    border: 1px solid var(--dm-border-light);
+    transition: box-shadow var(--dm-duration) var(--dm-ease);
+}
+
+.attribution-card:hover {
+    box-shadow: var(--dm-shadow-sm);
+}
+
+.attribution-card h3 {
+    font-family: 'Google Sans', sans-serif;
+    font-size: 1.0625rem;
+    font-weight: 500;
+    margin-bottom: 16px;
+    color: var(--dm-text);
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.attribution-card h3 i {
+    color: var(--dm-blue);
+    font-size: 0.95rem;
+}
+
+.attribution-card .results-table {
+    margin: 0;
+    min-width: 0;
+    width: 100%;
+    table-layout: fixed;
+    font-size: 0.875rem;
+}
+
+.attribution-card .results-table th,
+.attribution-card .results-table td {
+    padding: 10px 14px;
+    word-break: break-word;
+}
+
+.attribution-card .results-table th:last-child,
+.attribution-card .results-table td:last-child {
+    text-align: right;
+    font-variant-numeric: tabular-nums;
+    white-space: nowrap;
+    width: 40%;
+}
+
+.attribution-card .results-table th:first-child,
+.attribution-card .results-table td:first-child {
+    text-align: left;
+}
+
 .memory-card {
     padding: 32px;
     background: var(--dm-bg);
@@ -1114,19 +1201,28 @@ img { max-width: 100%; height: auto; }
     .crate-figures { grid-template-columns: 1fr; }
     .convergence-figures { grid-template-columns: 1fr; }
     .memory-grid { grid-template-columns: 1fr; }
+    .attribution-grid { grid-template-columns: 1fr; }
 
     .title-accent { font-size: 2.5rem; }
     .title-sub { font-size: 1.125rem; }
     .section { padding: 72px 0; }
     .section-title { font-size: 2rem; }
+
+    .results-table { font-size: 0.875rem; min-width: 620px; }
+    .results-table th,
+    .results-table td { padding: 12px 14px; }
 }
 
 @media (max-width: 600px) {
+    .container { padding: 0 18px; }
+    .nav-container { padding: 0 18px; }
+
     .highlight-grid { grid-template-columns: 1fr; }
 
     .step-card {
         flex-direction: column;
         align-items: flex-start;
+        gap: 16px;
     }
 
     .nav-links { display: none; }
@@ -1136,10 +1232,22 @@ img { max-width: 100%; height: auto; }
         padding: 100px 0 72px;
     }
 
-    .title-accent { font-size: 2rem; }
+    .venue-badge {
+        font-size: 0.9375rem;
+        padding: 9px 22px;
+        margin-top: -8px;
+        margin-bottom: 28px;
+    }
+
+    .title-accent { font-size: 2rem; letter-spacing: -0.01em; }
     .title-sub { font-size: 1rem; }
     .section { padding: 56px 0; }
-    .section-title { font-size: 1.75rem; }
+    .section-title { font-size: 1.625rem; }
+    .section-title::after { margin-bottom: 28px; }
+
+    .author-list { gap: 6px 14px; font-size: 0.875rem; }
+    .affiliations { gap: 4px 16px; font-size: 0.75rem; }
+    .author-notes { font-size: 0.7rem; gap: 4px 16px; }
 
     .hero-buttons {
         flex-direction: column;
@@ -1151,4 +1259,54 @@ img { max-width: 100%; height: auto; }
         max-width: 280px;
         justify-content: center;
     }
+
+    .abstract-box,
+    .motivation-text,
+    .results-intro { padding: 24px; }
+
+    .abstract-box p { font-size: 0.95rem; }
+
+    .step-number {
+        width: 40px;
+        height: 40px;
+        font-size: 1rem;
+    }
+
+    .step-content h3 { font-size: 1.0625rem; }
+
+    .code-block,
+    .hypothesis-box {
+        font-size: 0.8rem;
+        padding: 16px;
+    }
+
+    .code-block pre { white-space: pre-wrap; word-break: break-word; }
+
+    .memory-card,
+    .attribution-card { padding: 22px; }
+
+    .results-table { font-size: 0.8125rem; min-width: 560px; }
+    .results-table th,
+    .results-table td { padding: 10px 12px; }
+    .mode-cell { padding-left: 14px !important; }
+
+    .attribution-card .results-table { min-width: 0; }
+    .attribution-card .results-table th,
+    .attribution-card .results-table td { padding: 9px 10px; }
+
+    .citation-header { padding: 12px 16px; }
+    .bibtex-code { padding: 18px; }
+    .bibtex-code code { font-size: 0.75rem; white-space: pre-wrap; word-break: break-word; }
+
+    .figure-caption,
+    .figure-caption-main { font-size: 0.8125rem; }
+
+    .footer-links { flex-wrap: wrap; gap: 16px 24px; }
+}
+
+@media (max-width: 380px) {
+    .title-accent { font-size: 1.75rem; }
+    .title-sub { font-size: 0.9375rem; }
+    .venue-badge { font-size: 0.875rem; padding: 8px 18px; }
+    .section-title { font-size: 1.5rem; }
 }
